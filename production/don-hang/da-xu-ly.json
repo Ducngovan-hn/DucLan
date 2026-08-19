@@ -1,0 +1,16 @@
+{
+  "_ghi_chu": "Trạng thái do tools/dh.py quản lý. anh_da_doc = SHA1 các ảnh đã đọc (không đọc lại). moc_tra_hang = ngày trả hàng cuối đã vào sổ thật.",
+  "anh_da_doc": {
+    "cdd7396849": {
+      "ma_don": "Ms61",
+      "ngay_doc": "2026-07-28"
+    },
+    "7c5c40b0f3": {
+      "ma_don": "Ms62",
+      "ngay_doc": "2026-07-28"
+    }
+  },
+  "moc_tra_hang": "2026-07-27",
+  "lan_cuoi_don": "2026-07-28T18:12:00",
+  "lan_cuoi_tra": "2026-07-28T18:36:13"
+}

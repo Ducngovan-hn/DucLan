@@ -1,0 +1,57 @@
+{
+  "_ghi_chu": "Trích từ 2 ảnh trong raw/xưởng  bo Đức Lan/Đơn hàng/ ngày 28/07/2026.",
+  "_quy_tac_da_ap": [
+    "1 bộ = cổ + tay -> mỗi đơn tách 2 dòng (anh Đức xác nhận 28/07/2026)",
+    "khổ tay mặc định 72x3, kiểu tay theo đúng kiểu của cổ",
+    "mỗi màu ghi một dòng riêng trong ô Màu sắc",
+    "không có chữ trơn/kẻ/2 kẻ chân -> mã không đuôi + ' (usb)'"
+  ],
+  "don": [
+    {
+      "ngay": "24/07/2026",
+      "khach": "Cty Hoàng Giang",
+      "ma_kh": "hg",
+      "anh_sha1": "cdd7396849",
+      "ghi_chu": "Bo gửi c Ngân giúp",
+      "hang": [
+        {
+          "mo_ta": "Tím than",
+          "ho": "Co", "kho": "40x7", "kieu": "",
+          "mau": "Tím than",
+          "kich_thuoc": "40x7",
+          "so_luong": 438, "dvt": "bộ"
+        },
+        {
+          "mo_ta": "Tím than — tay",
+          "ho": "Ta", "kho": "72x3", "kieu": "",
+          "mau": "Tím than",
+          "kich_thuoc": "72x3",
+          "so_luong": 438, "dvt": "cái"
+        }
+      ]
+    },
+    {
+      "ngay": "28/07/2026",
+      "khach": "Cty Bform",
+      "ma_kh": "bform",
+      "anh_sha1": "7c5c40b0f3",
+      "ghi_chu": "Lô 3",
+      "hang": [
+        {
+          "mo_ta": "Trắng kẻ xanh bích",
+          "ho": "Co", "kho": "", "kieu": "kẻ",
+          "mau": "Trắng\nXanh bích",
+          "kich_thuoc": "",
+          "so_luong": 432, "dvt": "bộ"
+        },
+        {
+          "mo_ta": "Trắng kẻ xanh bích — tay",
+          "ho": "Ta", "kho": "72x3", "kieu": "kẻ",
+          "mau": "Trắng\nXanh bích",
+          "kich_thuoc": "72x3",
+          "so_luong": 432, "dvt": "cái"
+        }
+      ]
+    }
+  ]
+}

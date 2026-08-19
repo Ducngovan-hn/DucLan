@@ -1,0 +1,34 @@
+{
+  "_ghi_chu": "Trích từ nhóm Zalo 'TRẢ HÀNG' ngày 28/07/2026. Lấy từ 18/07 trở đi để script tự lọc trùng với sổ (sổ đang có 3 dòng ngày 18/07).",
+  "_quy_tac": "Thành tiền chép NGUYÊN con số anh Đức ghi trong tin nhắn, không tự tính lại.",
+  "tra": [
+    {"ngay": "18/07/2026", "khach": "c Tuấn Huyền",  "noi_dung": "bo áo khoác sz90: 53 + sz50: 25 = 4,5kg + trắng 110 cổ", "thanh_tien": 947500},
+    {"ngay": "18/07/2026", "khach": "c Hằng",        "noi_dung": "xanh biển 150 bộ",                                      "thanh_tien": 975000},
+    {"ngay": "18/07/2026", "khach": "c Hiệp",        "noi_dung": "đỏ trơn 500b + đỏ kẻ trắng 500b",                       "thanh_tien": 6500000},
+    {"ngay": "18/07/2026", "khach": "a Tuân",        "noi_dung": "cạp lô 1 đen 1000 cái",                                 "thanh_tien": 8500000},
+    {"ngay": "18/07/2026", "khach": "cty Thanh Huyền","noi_dung": "tím 400b + tím kẻ trắng nhỏ 60b",                      "thanh_tien": 2990000},
+
+    {"ngay": "20/07/2026", "khach": "a Nghĩa",       "noi_dung": "tím than 1100 bộ",                                      "thanh_tien": 7150000},
+    {"ngay": "20/07/2026", "khach": "a Tuân",        "noi_dung": "cạp lô 2: đen 300 + tím than 200 = 500 cái",            "thanh_tien": 4250000},
+
+    {"ngay": "21/07/2026", "khach": "c Hiệp",        "noi_dung": "trắng tinh 200 bộ",                                     "thanh_tien": 1300000},
+    {"ngay": "21/07/2026", "khach": "c Hoàn",        "noi_dung": "trắng 150 + xanh két 200 + ya trơn 150 + ya kẻ trắng 450 = 950 bộ", "thanh_tien": 6175000},
+    {"ngay": "21/07/2026", "khach": "cô Tuấn Huyền", "noi_dung": "đỏ sz90: 350 + sz80: 200 = 35kg",                       "thanh_tien": 4375000},
+
+    {"ngay": "22/07/2026", "khach": "Hiếu",          "noi_dung": "rêu gân 700 bộ = 88kg",                                 "thanh_tien": 11000000},
+    {"ngay": "22/07/2026", "khach": "c Nhung",       "noi_dung": "bích 100b + mía 200b = 300 bộ",                         "thanh_tien": 1950000},
+    {"ngay": "22/07/2026", "khach": "a Phương",      "noi_dung": "trắng 480 + đen 160 + đô 160 + xanh 160 + kaky 160 + cam 160 = 1280 cổ", "thanh_tien": 4480000},
+
+    {"ngay": "23/07/2026", "khach": "a Nghĩa",       "noi_dung": "kaky sz40 1000 cổ + tay sz70 2500 + tay sz74 1300 = 3800 bộ + trắng tinh 140 bộ = 3940 bộ", "thanh_tien": 25610000},
+
+    {"ngay": "25/07/2026", "khach": "a Tuân",        "noi_dung": "cạp lô 3: đen 300 + tím than 200 = 500 cái",            "thanh_tien": 4250000},
+    {"ngay": "25/07/2026", "khach": "c Hằng",        "noi_dung": "dệt 66 bộ + thêu 100 bộ",                               "thanh_tien": 729000},
+
+    {"ngay": "26/07/2026", "khach": "a Minh",        "noi_dung": "tím than 210 bộ",                                       "thanh_tien": 4725000},
+    {"ngay": "26/07/2026", "khach": "c Linh",        "noi_dung": "trắng tinh 150 cổ + 120 tay",                           "thanh_tien": 945000},
+    {"ngay": "26/07/2026", "khach": "c Nhung",       "noi_dung": "trắng kem kẻ đỏ 100 bộ",                                "thanh_tien": 650000},
+
+    {"ngay": "27/07/2026", "khach": "c Hằng",        "noi_dung": "vàng 200b + cam 100b = 300 bộ",                         "thanh_tien": 1950000},
+    {"ngay": "27/07/2026", "khach": "cty Bform",     "noi_dung": "đen 300b + tím than 300b + ghi 500b + trắng kẻ đỏ 50b + đỏ kẻ trắng 50b = 1200 bộ", "thanh_tien": 7200000}
+  ]
+}

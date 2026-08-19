@@ -1,0 +1,49 @@
+# === ĐỒNG BỘ GITHUB GỌN — chỉ đưa PHẦN CHỮ lên (wiki/ · production/dmo/ · tools/ · CLAUDE.md).
+#     Mọi thứ dưới đây GIỮ NGUYÊN trên máy, chỉ KHÔNG đẩy lên GitHub; backup riêng ra ổ cứng. ===
+
+# Toàn bộ nguồn thô (ảnh, PDF bài giảng, docx, srt...) — nặng ~150MB, backup riêng ổ cứng.
+raw/
+
+# Sổ Excel sống + mọi bảng tính — giữ trên máy, chỉ thao tác qua tools/dh.py (không sync git).
+*.xlsx
+*.xlsm
+
+# PDF báo cáo/tài liệu nặng.
+*.pdf
+
+# File nén / media nặng — sao lưu riêng ra ổ cứng, không cho vào git
+raw/**/*.rar
+raw/**/*.zip
+raw/**/*.7z
+raw/**/*.mp4
+raw/**/*.MOV
+raw/**/*.mov
+
+# Rác hệ thống
+Thumbs.db
+desktop.ini
+.DS_Store
+._*
+
+# File khoá Excel tạo ra khi đang mở file — không bao giờ commit
+~$*
+
+# Python biên dịch
+__pycache__/
+*.pyc
+
+# Bản sao lưu tự động do tools/dh.py tạo trước mỗi lần ghi Excel.
+# Giữ 30 bản gần nhất trên máy để lỡ sai còn quay lại; git đã có lịch sử rồi.
+production/don-hang/sao-luu/
+
+# Ảnh đơn hàng thu nhỏ để LLM đọc — dựng lại được từ ảnh gốc trong raw/
+production/don-hang/anh-thu-nho/
+
+# Obsidian — giữ cấu hình chung, bỏ phần workspace riêng máy
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Code plugin cộng đồng — tải lại được từ Obsidian, không cần vào git.
+# Vẫn giữ community-plugins.json để biết vault này dùng plugin nào.
+.obsidian/plugins/
