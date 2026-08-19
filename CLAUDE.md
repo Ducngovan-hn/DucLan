@@ -220,4 +220,32 @@ DucLan/
 │   ├── tom-tat-nguon/     # Tóm tắt từng file nguồn
 │   └── so-sanh/           # Bảng/trang so sánh
 └── production/            # Sản phẩm đầu ra theo lệnh (blog, post, kịch bản, PDF...)
+    └── dmo/               # Hệ thống nếp ngày (DMO) — xem mục 10
 ```
+
+---
+
+## 10. Hệ thống DMO (nếp ngày) & Lịch Google
+
+Nếp ngày của anh Đức theo mô hình Phạm Thành Long: mỗi ngày 1 file việc, tick khi xong,
+báo cáo 3 khung giờ, tối tự tạo DMO hôm sau. Dựa trên khái niệm [[nep-ngay-dmo]].
+
+**Vị trí & công cụ:**
+- `production/dmo/_MAU-DMO.md` — template 6 việc (I. Rèn thân · II. Học · III. Làm ra tiền ·
+  IV. Kiểm đếm + bảng 6 lọ 55/10/10/10/10/5 · V. Phalon · VI. Đánh giá).
+- `production/dmo/DMO-YYYY-MM-DD.md` — file mỗi ngày (nguồn chân lý của ngày đó).
+- `tools/dmo.py` — `tao` (sinh DMO, chuyển việc phát sinh tồn) · `bao-cao` (đếm %, việc còn tồn) ·
+  `lich` (xuất JSON 6 việc + khung giờ). Chi tiết: `production/dmo/HUONG-DAN-DUNG.md`.
+
+**Lịch Google (qua Composio, toolkit `googlecalendar`):**
+- Tài khoản: **ducngovan.hn@gmail.com**, alias `hn` (mặc định). Kết nối đã Active.
+- Tool deferred — nạp schema trước bằng `ToolSearch` rồi gọi qua `COMPOSIO_MULTI_EXECUTE_TOOL`
+  với `account: "googlecalendar_tarin-cupper"` (hoặc alias `hn` nếu nhận):
+  `GOOGLECALENDAR_CREATE_EVENT` (start/end ISO + `timezone: "Asia/Ho_Chi_Minh"`, `create_meeting_room: false`),
+  `GOOGLECALENDAR_PATCH_EVENT` (đổi tên/màu khi việc xong), `GOOGLECALENDAR_FIND_EVENT`.
+- Thao tác ghi lịch là side-effect → theo thói quen chỉ đổ việc/đánh dấu khi anh Đức đã đồng ý cách làm.
+
+**Đồng bộ Git (repo gọn — chỉ phần chữ):**
+- GitHub **private**, chỉ chứa `.md`/`.py`/`.json`. `.gitignore` loại `raw/` + `*.xlsx` + `*.pdf`
+  (giữ trên máy, backup ổ cứng). Branch `backup-lich-su-cu-155mb` (local) giữ lịch sử cũ nặng.
+- Điện thoại + báo cáo cloud đọc DMO qua repo này (máy không cần bật).
