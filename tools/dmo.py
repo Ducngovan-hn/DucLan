@@ -166,8 +166,11 @@ def lenh_tao(args):
         mau.replace("{{THU}}", thu_tieng_viet(ngay))
         .replace("{{NGAY}}", ngay.isoformat())
         .replace("{{VIEC_TON}}", khoi_ton)
-        .replace("{{TIEN_DO}}", "0/? việc · 0% (chạy `dmo.py bao-cao` để tính)")
+        .replace("{{TIEN_DO}}", "0/? việc · 0%")
     )
+    # Điền sẵn N (tổng số việc trong ngày) để dòng TIẾN ĐỘ khớp ngay từ đầu
+    _, tong0, _ = dem_tien_do(noi_dung)
+    noi_dung = re.sub(r"TIẾN ĐỘ:.*", f"TIẾN ĐỘ: 0/{tong0} việc · 0%", noi_dung)
 
     DMO_DIR.mkdir(parents=True, exist_ok=True)
     dich.write_text(noi_dung, encoding="utf-8")
@@ -198,11 +201,11 @@ def lenh_bao_cao(args):
     else:
         print("\n💚 Đã xong hết!")
 
-    if args.cap_nhat:
-        moi = re.sub(r"TIẾN ĐỘ:.*", dong, noi_dung)
-        if moi != noi_dung:
-            f.write_text(moi, encoding="utf-8")
-            print(f"\n(đã cập nhật dòng TIẾN ĐỘ trong {f.name})")
+    # Luôn ghi lại dòng TIẾN ĐỘ vào file cho khớp (không cần cờ --cap-nhat nữa)
+    moi = re.sub(r"TIẾN ĐỘ:.*", dong, noi_dung)
+    if moi != noi_dung:
+        f.write_text(moi, encoding="utf-8")
+        print(f"\n(đã cập nhật dòng TIẾN ĐỘ trong {f.name})")
 
 
 # ============================ LỆNH: lich ============================

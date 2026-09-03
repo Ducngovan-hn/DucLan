@@ -19,6 +19,11 @@ Việc duy nhất tốn token là **đọc chữ trên ảnh / trên tin nhắn 
 script làm. Nên: không đọc lại ảnh cũ, không quét thư mục `Thiết kế/`, không mở các
 sheet khác của workbook.
 
+> **Đọc Zalo — quy tắc chung cho MỌI việc xưởng (anh Đức chốt 21/08/2026):** luôn đọc
+> qua **Zalo PC** (script `zalo_dump.mjs` gom **chữ** qua cổng gỡ lỗi). **KHÔNG dùng
+> Zalo Web** (chỉ vài tuần gần nhất, dễ sót) và **KHÔNG chụp ảnh màn hình / KHÔNG
+> `read_page`**. Zalo PC cuộn được lịch sử cả tháng/năm mà vẫn rẻ vì chỉ lấy chữ.
+
 ---
 
 ## A. Khi anh Đức gõ "tổng hợp đơn hàng" (bước 3)
@@ -97,9 +102,17 @@ Script đã cài đúng thứ tự (kiểm "2 kẻ chân" trước "kẻ"). Th�
 python tools/dh.py soat
 ```
 
-2. Mở Zalo Web trong Chrome, vào nhóm **"Trả hàng"**. Dùng
-   `mcp__Claude_Browser__get_page_text` (KHÔNG dùng `read_page` — đắt hơn 3–5 lần).
-   Cuộn lùi **vừa đủ** tới mốc, không cuộn hết nhóm.
+2. Lấy tin nhắn nhóm **"Trả hàng"** bằng **Zalo PC** (đọc **chữ** qua cổng gỡ lỗi).
+   **KHÔNG dùng Zalo Web** (chỉ xem được vài tuần gần nhất, dễ sót số liệu cũ) và
+   **KHÔNG chụp ảnh màn hình**. Dùng chung script của skill sổ sách:
+
+```bash
+node "C:/Users/admin/.claude/skills/so-sach-duc-lan/scripts/zalo_dump.mjs" "TRẢ HÀNG" trahang.txt --until 01/07/2026
+```
+
+   - `--until dd/mm/yyyy`: cuộn ngược tới mốc này; đặt **sớm hơn kỳ cần lấy ít nhất 1 tuần**.
+   - Xong thì `Read` file `trahang.txt`, kiểm danh sách mốc ngày script in ra có phủ hết
+     kỳ cần lấy chưa; chưa đủ thì chạy lại với `--until` sớm hơn.
 3. Trích từng lần trả hàng → JSON:
 
 ```json

@@ -47,3 +47,10 @@ production/don-hang/anh-thu-nho/
 # Code plugin cộng đồng — tải lại được từ Obsidian, không cần vào git.
 # Vẫn giữ community-plugins.json để biết vault này dùng plugin nào.
 .obsidian/plugins/
+
+# Footage content thô (video/ảnh quay xưởng) — nặng, giữ trên máy + ổ backup, không vào git.
+production/content/footage/
+footage-content/
+
+# Cấu hình cục bộ của offload_content.py (nhớ ổ đích lần cuối, riêng máy).
+tools/.offload_config.json

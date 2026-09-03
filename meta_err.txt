@@ -1,0 +1,4 @@
+usage: yt.py [-h]
+             {tai-khoan,xin-quyen,kenh,video,so-lieu,xem,tim,binh-luan,phu-de,dang}
+             ...
+yt.py: error: unrecognized arguments: -2HN2RG-Gs4 VnReESvR0vo jZZXXLVEeQg potV6mfQQLY -m9I4RNURjM IR9WqfsCHig aOa0n4FcPwI 4OEdLhGegRE qrIbjzL7L5o tLEGce_Cl48 WlDIxjc9Yyw QwTxKV971mk 3XM7XLJJOIY hfLgR-90vzY njvvd11ICnI IILASNgNDYE FXXU1OeKNrw 5NX3QmGmxFI qwMTjYVSpik hKiMmkRtzUU BMeTL5NpOTc KVunDwJKgB0 f2hpLCNlVw8 GaKBSEFUrUs fBVCJs3A4A4 T1IHXYvu0OQ zgf3JmIk2y0 N1kPFo0gDpY LG01TjgqPgI MYHhlbFFOSU kEH65t34iCE n8PoAJnwPTk WINuPdeJOfg 2kKxNzmjvsA p4MLBLhSLnU rtqa05h51IU 4GTpJWOVgic WqrcCAQJKBQ ug57mUaK-Hk ieZPCL0BQOo RF96LGcGLHM fxEgMNFoTPo _HAzY6XbS4c UlmWm6AkD3A aK35A6D2q4k UU0nemi1MC0

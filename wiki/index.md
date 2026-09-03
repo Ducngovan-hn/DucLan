@@ -25,6 +25,9 @@ tags:
 
 - [[gdo80x16]] — Mẫu dệt mới nhất, lên máy 18/07/2026; giá vốn CHƯA CÓ, kèm 9 câu hỏi cần anh Đức trả lời.
 - [[ga90x12]] — Mẫu dệt lên máy 11/07/2026, biến thể của họ GA90 có từ 2024; giá vốn CHƯA CÓ, kèm 10 câu hỏi.
+- [[bo-co-polo]] — Dòng chủ lực: bo cổ + tay áo polo; 5 kiểu mẫu sẵn (Kẻ trơn/2 màu/Gân/Đục lỗ/Lacoste). Nguyên liệu content.
+- [[bo-ca-quan]] — Bo cạp quần thể thao/jogger; thông số cụ thể cần bổ sung. Nguyên liệu content.
+- [[chun-det-bo-ao-khoac]] — Chun/bo cho hoodie, áo khoác (cổ/gấu/cửa tay); chất liệu cần bổ sung. Nguyên liệu content.
 
 ## Khách hàng
 > Khách hàng / đối tác. Nằm trong `wiki/customers/` (loai: `khach-hang`).
@@ -38,7 +41,7 @@ tags:
 ## Đối thủ
 > Đối thủ cạnh tranh. Nằm trong `wiki/competitors/` (loai: `doi-thu`).
 
-_(chưa có trang nào)_
+- [[yinmei-rib-collar]] — xưởng bo cổ/bo tay TQ (@Andy88330), kênh Shorts; viral may rủi, học/tránh gì cho content Đức Lan
 
 ## Khái niệm
 > Ý tưởng, phương pháp, nguyên lý, thuật ngữ. Nằm trong `wiki/khai-niem/`.
@@ -74,11 +77,45 @@ _(chưa có trang nào)_
 - [[quy-trinh-don-hang]] — 7 bước nhận đơn → trả hàng; LLM chỉ làm bước 3 và 6, chạy khi anh Đức gõ lệnh.
 - [[cu-phap-dat-bo]] — Cú pháp anh Đức viết khi tiếp nhận đơn; quy tắc đuôi mã Trơn→T, Kẻ→K, 2 kẻ chân→TH, còn lại→(usb).
 - [[doanh-thu-that]] — Doanh thu thật 1,158 tỷ lấy từ sổ trả hàng; hoá đơn 158,7 tr chỉ là số nộp thuế, chênh hơn 7 lần.
+- [[chi-phi-nguyen-lieu]] — Định mức sợi+nhuộm+dớ 68.000 đ/kg; công thức tính chi phí NVL theo tháng (skill `chi-phi-nvl`).
+- [[bien-loi-nhuan-bo]] — Biên lợi nhuận theo tháng + lãi từng mặt hàng (bộ/cạp/gấu/hàng cân); biên T3–T7 ≈ 43,2% sau khấu hao; khấu hao sửa chữa xưởng 8 năm.
 
 ## Tóm tắt nguồn
 > Tóm tắt từng file nguồn trong `raw/`. Nằm trong `wiki/tom-tat-nguon/`.
 
 - [[sach-cao-cao-len-doc]] — Sách ngụ ngôn làm giàu của Phạm Thành Long (390 trang gốc); cấu trúc, thông điệp trục, hệ nhân vật.
+
+**Footage content xưởng** (mục lục footage để dựng content, mỗi ngày 1 trang — tháng 8/2026)
+- [[footage-xuong-2026-08-01]] — 01/08: 3 ảnh, kiện bo cổ navy + phối màu chờ giao.
+- [[footage-xuong-2026-08-02]] — 02/08: tháp kiện bo navy trên cân (cảnh cân lô lớn).
+- [[footage-xuong-2026-08-03]] — 03/08: nhiều kiện bo đủ màu (cam/trắng-đỏ/jacquard/mint/bích) + cân.
+- [[footage-xuong-2026-08-04]] — 04/08: bo cam nhiều biến thể + bo cổ polo thành phẩm + bảng màu + cân/máy dệt.
+- [[footage-xuong-2026-08-05]] — 05/08: hero bo cam + kiện đen phối + cân đêm.
+- [[footage-xuong-2026-08-06]] — 06/08: hero cận cảnh chun dệt xanh lá.
+- [[footage-xuong-2026-08-07]] — 07/08: 2 video máy dệt + bo kẻ sọc navy.
+- [[footage-xuong-2026-08-08]] — 08/08: nhiều hero shot bo navy/đỏ/trắng cận cảnh.
+- [[footage-xuong-2026-08-09]] — 09/08: kiện phối cam-navy + bó bo cam sợi dài (bán thành phẩm).
+- [[footage-xuong-2026-08-10]] — 10/08: đa màu + cảnh chất hàng lên cốp xe (giao hàng).
+- [[footage-xuong-2026-08-11]] — 11/08: ảnh áo polo mockup + bo cổ xanh-vàng khớp áo.
+- [[footage-xuong-2026-08-12]] — 12/08: cuộn sợi nguyên liệu + bảng màu vải + hero bo xanh lá.
+- [[footage-xuong-2026-08-13]] — 13/08: bo cổ trắng/đen kẻ + kiện gửi nhà xe.
+- [[footage-xuong-2026-08-14]] — 14/08: vải vụn + 2 kiện bo xanh lá/xanh dương phối.
+- [[footage-xuong-2026-08-15]] — 15/08: màn hình máy dệt + hero bo navy kẻ + sợi rối.
+- [[footage-xuong-2026-08-16]] — 16/08: tháp kiện bo đen kẻ + kiện gửi nhà xe.
+- [[footage-xuong-2026-08-17]] — 17/08: kiện + túi bo cam thành phẩm.
+- [[footage-xuong-2026-08-18]] — 18/08: mẫu màu + hero bo đen viền sọc + kiện theo size.
+- [[footage-xuong-2026-08-19]] ⭐ — 19/08: bộ hero bo màu đơn sắc chụp ngoài trời (đẹp nhất tháng).
+- [[footage-xuong-2026-08-21]] — 21/08: hero bo xanh bích + cảnh cân điện tử Tiamo.
+- [[footage-xuong-2026-08-22]] ⭐⭐ — 22/08: 14 video máy dệt chạy + ống sợi màu (mỏ vàng b-roll sản xuất).
+- [[footage-xuong-2026-08-23]] — 23/08: tháp kiện bo đen kẻ xếp rất cao (sản lượng).
+- [[footage-xuong-2026-08-24]] — 24/08: cuộn sợi trên máy + kiện bo cam/navy.
+- [[footage-xuong-2026-08-25]] — 25/08: sàn hàng đủ màu + hero bo mint/đỏ đô.
+- [[footage-xuong-2026-08-26]] — 26/08: bảng màu mẫu tròn + kiện bo phối.
+- [[footage-xuong-2026-08-27]] — 27/08: kiện bo bích-cam + xanh da trời.
+- [[footage-xuong-2026-08-28]] — 28/08: bo cam theo size + thùng carton lên xe + hero bo đỏ.
+- [[footage-xuong-2026-08-29]] — 29/08: hàng đủ màu + 3 video đóng gói/gửi hàng.
+- [[footage-xuong-2026-08-30]] — 30/08: kiện gửi nhà xe Hoàng Hà (Thái Bình ↔ Hà Đông).
+- [[footage-xuong-2026-09-01]] — 01/09: kiện hàng gửi (che thông tin khách nếu đăng).
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.

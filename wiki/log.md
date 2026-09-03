@@ -218,3 +218,52 @@ chỉ doanh thu) · cho đi định kỳ (mới 1/40 mục).
 ra giá vốn 1 mét bo, (2) HM T10/2026 → FM T3/2027, (3) trả xong nợ xã hội 200 tr. Hoãn
 YouTube 100.000 USD (0 video sau 2 lần thử). Chèn bậc thang giữa cho các mục lớn — hiện chỉ
 6/40 mục (15%) có mốc thời gian.
+
+## [2026-08-20] update | he-thong-content | Dựng bộ "Một ngày làm content xưởng bo": SOP + checklist + lịch 28 ngày + kho 100 ý tưởng + guideline social; agent dao-dien-28ngay + lệnh /kich-ban-ngay, /offload, /kich-ban-dung; tools/offload_content.py; 3 trang wiki/products.
+
+## [2026-08-21] query | Tinh chi phi nguyen lieu thang 7 (~87,56 tr) + luu cong thuc dinh muc -> khai-niem/chi-phi-nguyen-lieu
+
+## [2026-08-21] query | Tinh chi phi NVL T1-T8/2026 tu Google Sheet (~652,09tr = dinh muc 474,6tr + gan 177,5tr); ghi vao sheet CHI PHI (dong Soi/Nhuom/Do, tach 42/23/3) theo lenh anh Duc
+
+## [2026-08-22] ingest | So sach: them 17 don tra hang (13-21/8, +52.948.500d) + 6 khoan chi phi (10-18/8, +54.216.571d) tu Zalo vao Google Sheet TONG HOP
+
+## [2026-08-22] query | Phân tích kênh YouTube "Rib collar cuff manufacturer" @Andy88330 (Yinmei Textile) — đối thủ CÙNG NGÀNH bo cổ/bo tay — qua 2 agent + tự phân tích audio: 30 video, 19 sub, viral MAY RỦI (2 clip jacquard 30k/28.8k view = 77% nhưng 0 like/0 comment; median 318). Bài học: hoa văn+tiêu đề sạch+ngắn+hook chữ-to; tránh nhét SĐT vào tiêu đề, 30/30 không tag, khoe vải rời, bỏ lơ comment hỏi mua. -> trang doi-thu yinmei-rib-collar + sản phẩm production/content/phan-tich-yinmei-va-goi-y-shorts-2026-08-22.md.
+
+## [2026-08-23] query | Báo cáo tháng 23/07–23/08/2026 (thực tế + đánh giá + cố vấn)
+
+Tổng hợp từ log (20 mục), sổ thật (đến 30/07), git log, ~98 phiên Claude, và các thư mục
+`production/content` · `production/dmo` · `tools/` · `.claude/`.
+
+**Tiến bộ chính (dữ kiện):** đã lắp "đồng hồ giá vốn" — [[chi-phi-nguyen-lieu]] (68.000 đ/kg
+gộp, 1 bộ = 2.288 đ NL), tính được chi phí NVL T1–T8 ≈ 652 tr; dựng 3 hệ thống lớn (đo tiền,
+nếp ngày DMO, content bán hàng) với 7 script, 7+ skill, agent `dao-dien-28ngay`, 3 lệnh;
+phân tích đối thủ Yinmei; Bucket List 4 tầng + mô hình 6 lọ.
+
+**Ba phát hiện chính (nhận định):** (1) đồng hồ CÔNG NỢ (khối THU TIỀN) — việc số một tháng
+trước — vẫn chưa lắp sau nguyên tháng; (2) mở nhiều hệ thống mới hơn là đóng: content/DMO/
+đối thủ dựng xong chưa chạy ra kết quả (0 video đăng, DMO mới 3 ngày); (3) nhịp làm việc dồn
+toa — 63/98 phiên rơi vào 5 ngày 19–23/08.
+
+**Cố vấn:** đừng xây thêm; bắt 3 hệ thống đã có nhả ra 3 con số — 1 biên lãi gộp thật · 4
+video đăng · 14 ngày DMO liên tục; và lắp nốt đồng hồ công nợ.
+
+Sản phẩm: `production/bao-cao-thang-2026-07-23-den-08-23.md`.
+
+## [2026-08-28] query | Biên lợi nhuận + lãi từng mặt hàng bo (T3–T7) → trang [[bien-loi-nhuan-bo]]
+
+Tính từ Google Sheet "Xưởng Dệt Bo Đức Lan 2026" (tab LỢI NHUẬN/CHI PHÍ). Biên lũy kế T3–T7
+**≈ 43,2%** sau khi làm sạch chi phí. Lãi từng mặt hàng (chi phí đầy đủ ~99.756 đ/kg): bộ 44,0%
+(lãi ~2.642/cái) · cạp 23,7% · gấu 21,4% · hàng cân 20,2%. Phát hiện: **bộ gánh lãi cho cả xưởng**
+(bán 178k/kg) trong khi cạp/gấu/hàng cân chỉ bán ~125–131k/kg → biên mỏng.
+
+**Ghi vào sheet (theo lệnh anh Đức):** tách "sửa chữa xưởng" (gác xép + điều hòa = 88,71 tr, T4–T6)
+ra khỏi chi phí vận hành; **khấu hao gộp 8 năm = 924.063 đ/tháng** từ T4/2026, ghi vào ô Khấu hao
+(dòng 12 tab CHI PHÍ) cho T4→T8; dòng "Sửa chữa" cũ đưa ra ngoài bảng (dòng 29) để không tính đúp.
+Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); đã kiểm chứng lại số. Kết nối googlesheets
+(alias `hn`) qua Composio lần đầu trong phiên này.
+
+## [2026-09-02] ingest | Footage content xưởng 04/08 (thử 1 ngày) → trang [[footage-xuong-2026-08-04]]: 13 ảnh (bo cam nhiều biến thể + bo cổ polo thành phẩm + bảng màu + cân/máy dệt), mục lục footage để dựng content; cập nhật index.md thêm mục con "Footage content xưởng".
+
+## [2026-09-02] ingest | Footage content xưởng 01-30/08 + 01/09 (29 ngày còn lại, tiếp bản mẫu 04/08) → 29 trang [[footage-xuong-2026-08-xx]] trong tom-tat-nguon/. Tổng 30 ngày, 175 mục (ảnh+video). Điểm đắt: 19/08 (bộ hero bo màu ngoài trời), 22/08 (14 video máy dệt chạy). Screenshot đơn/biên lai/sổ tay đánh dấu "nội bộ — không đăng"; kiện có SĐT/tên khách ghi "che trước khi đăng". Cập nhật index.md liệt kê đủ 30 ngày.
+
+## [2026-09-02] update | kich-ban-dung | Bo cổ áo polo là gì? (Ngày 1/28, nhóm KT) · 10 clip/ảnh thật (video máy dệt 22/08 + hero bo 19/08 + macro bo 08/08 + bảng màu/bo cổ 04/08) · giọng AI (edge-tts vi-VN-NamMinh) · short dọc 9:16 44.7s, phụ đề cháy chữ nhấn cam. Thiếu: video kéo giãn động (Shot 5) + anh Đức talking-head CTA (Shot 7). Xuất: production/content/dung/2026-09-02-bo-co-polo-la-gi.mp4 + 3 gói đăng. Liên hệ [ĐIỀN] chờ anh Đức điền SOP.
