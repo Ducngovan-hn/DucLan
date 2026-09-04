@@ -6,15 +6,17 @@ description: >
   vào vault đời sống C:\Users\admin\my-life. "ingest xưởng" (hoặc "ingest xưởng bo",
   "ingest content xưởng") → nạp content xưởng vào wiki DucLan. Kích hoạt cả khi anh
   nói "nạp nhật ký tháng này", "sinh wiki từ footage", "ingest tháng 8", "viết nhật
-  ký my-life". Nếu chỉ gõ "ingest" trơ → HỎI nhánh nào trước khi làm.
+  ký my-life". Gõ "ingest" trơ (không nói nhánh) → làm CẢ HAI (xưởng + my-life) cho
+  ngày chưa ingest, không hỏi.
 ---
 
 # Ingest — nạp footage/nguồn vào wiki
 
 Gọi người dùng là **anh Đức**. Xác định nhánh từ chữ anh gõ:
-- có **"my-life" / "đời sống" / "cá nhân" / "nhật ký"** → **Nhánh A (đời sống)**.
-- có **"xưởng" / "xuong" / "bo" / "content xưởng"** → **Nhánh B (xưởng)**.
-- không rõ → hỏi anh Đức chọn nhánh, đừng đoán.
+- có **"my-life" / "đời sống" / "cá nhân" / "nhật ký"** → **chỉ Nhánh A (đời sống)**.
+- có **"xưởng" / "xuong" / "bo" / "content xưởng"** → **chỉ Nhánh B (xưởng)**.
+- **`ingest` trơ (không nói nhánh) → LÀM CẢ HAI** (anh Đức chốt 4/9): chạy Nhánh B (xưởng)
+  rồi Nhánh A (my-life) cho (các) ngày chưa ingest. KHÔNG hỏi nữa.
 
 ## Nguyên tắc token (chung)
 Đã xem lưới phân loại lúc `/offload` thì **KHÔNG đọc lại từng ảnh** — dùng nội dung đã

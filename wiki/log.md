@@ -267,3 +267,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-09-02] ingest | Footage content xưởng 01-30/08 + 01/09 (29 ngày còn lại, tiếp bản mẫu 04/08) → 29 trang [[footage-xuong-2026-08-xx]] trong tom-tat-nguon/. Tổng 30 ngày, 175 mục (ảnh+video). Điểm đắt: 19/08 (bộ hero bo màu ngoài trời), 22/08 (14 video máy dệt chạy). Screenshot đơn/biên lai/sổ tay đánh dấu "nội bộ — không đăng"; kiện có SĐT/tên khách ghi "che trước khi đăng". Cập nhật index.md liệt kê đủ 30 ngày.
 
 ## [2026-09-02] update | kich-ban-dung | Bo cổ áo polo là gì? (Ngày 1/28, nhóm KT) · 10 clip/ảnh thật (video máy dệt 22/08 + hero bo 19/08 + macro bo 08/08 + bảng màu/bo cổ 04/08) · giọng AI (edge-tts vi-VN-NamMinh) · short dọc 9:16 44.7s, phụ đề cháy chữ nhấn cam. Thiếu: video kéo giãn động (Shot 5) + anh Đức talking-head CTA (Shot 7). Xuất: production/content/dung/2026-09-02-bo-co-polo-la-gi.mp4 + 3 gói đăng. Liên hệ [ĐIỀN] chờ anh Đức điền SOP.
+
+## [2026-09-04] ingest | Footage content xưởng 03/09 (bó bo Trắng 100/ya 100 + biên lai NCC nội bộ) & 04/09 (đống vải bo xanh ngọc) → 2 trang footage-xuong-2026-09-03/04 trong tom-tat-nguon/; cập nhật index.md

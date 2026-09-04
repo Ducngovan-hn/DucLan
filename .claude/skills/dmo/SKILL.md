@@ -64,6 +64,8 @@ Số km · thời gian lấy từ **footage my-life (mục 5)**, không hỏi n�
   KHÔNG hỏi lại (anh Đức sẽ tự sửa nếu thực ra có chạy).
 - **Hôm nào CÓ chạy bộ → tự tick luôn "Đọc / nghe sách nói"** (anh Đức nghe audio khi chạy).
 - **Phalon (việc 5) → mặc định tick mỗi ngày** (anh Đức luôn làm trước khi ngủ).
+- **Tạo DMO ngày mai (việc 6) → mỗi lần TỔNG KẾT / CHỐT ngày là tự chạy `dmo.py tao` cho ngày mai
+  rồi tick luôn dòng này, KHÔNG hỏi** (chỉ thị 04/09: anh Đức tự tạo DMO của mình, không cần báo em cập nhật).
 - **Quay video** (trong việc 3 "Viết content + quay video") → kiểm **footage xưởng** ngày đó;
   có clip quay → tick.
 
