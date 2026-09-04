@@ -117,7 +117,11 @@ Sau khi tự lấy, luôn báo lại số cho anh Đức khi ghi vào DMO (minh 
 - **Zalo script bỏ nhãn "Hôm nay":** `zalo_dump.mjs` báo "mốc tới 01/09" nhưng tin ngày hiện tại nằm
   dưới nhãn **"Hôm nay"** ở CUỐI file → luôn `tail` đọc phần cuối file dump, đừng tin mốc script tự báo.
 
-## 6. Đồng bộ Git
-File DMO nằm trong repo `Ducngovan-hn/DucLan`. Sau khi sửa, muốn đồng bộ điện thoại thì cần
-`git add -A && git commit && git push` — nhưng **git push bị auto-classifier chặn**, phải để anh Đức
-tự bấm Run (xem [[he-thong-dmo-va-git]]).
+## 6. Đồng bộ Git — TỰ ĐỘNG sau mỗi lần chốt DMO (anh Đức không phải nhắc)
+
+Chỉ thị anh Đức (03/09): **tạo/chốt DMO xong là tự đồng bộ, không chờ nhắc.** Quy trình:
+1. `git add -A && git commit -m "..."` — chạy được (local, không bị chặn) → LUÔN tự làm.
+2. `git push` — bị auto-classifier chặn với Claude → **tự đưa sẵn khối lệnh `git push` (tag bash, có nút Run)
+   cho anh Đức bấm ngay** ở cuối phản hồi, KHÔNG chờ anh yêu cầu.
+3. Nếu anh Đức đã thêm rule `Bash(git push:*)` vào settings thì thử push thẳng trước; chặn thì mới đưa nút.
+Xem [[he-thong-dmo-va-git]].
