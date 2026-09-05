@@ -146,8 +146,12 @@ def lenh_tao(args):
     mau = TEMPLATE.read_text(encoding="utf-8")
 
     # Tên các việc CỐ ĐỊNH đã có sẵn trong template — không bê lại (tránh nhân đôi).
+    # So theo NHÃN việc (phần trước dấu ":") để bắt cả khi anh Đức đã điền giá trị,
+    # ví dụ "Chạy bộ: không chạy (...)" vẫn khớp việc cố định "Chạy bộ".
+    def nhan_viec(v: str) -> str:
+        return v.split(":", 1)[0].strip()
     _, _, viec_co_dinh = dem_tien_do(mau)
-    tap_co_dinh = {v for v in viec_co_dinh if v}
+    tap_nhan_co_dinh = {nhan_viec(v) for v in viec_co_dinh if v}
 
     # --- Bê việc còn tồn từ file gần nhất trước đó ---
     khoi_ton = ""
@@ -155,7 +159,7 @@ def lenh_tao(args):
     if truoc:
         _, _, con_ton = dem_tien_do(truoc.read_text(encoding="utf-8"))
         # Chỉ giữ VIỆC PHÁT SINH (tên khác việc cố định trong template).
-        con_ton = [v for v in con_ton if v and v not in tap_co_dinh]
+        con_ton = [v for v in con_ton if v and nhan_viec(v) not in tap_nhan_co_dinh]
         if con_ton:
             m = re.match(r"DMO-(\d{4}-\d{2}-\d{2})\.md$", truoc.name)
             ngay_truoc = m.group(1) if m else "hôm trước"
