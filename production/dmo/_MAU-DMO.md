@@ -34,6 +34,8 @@
 | 🏦 Chuyển khoản |  |  |  |
 | **TỔNG** |  | **_______ đ** |  |
 
+- [ ] ⬜ Có tiền thực nhận hôm nay (> 0 mới tính hoàn thành): _______ đ
+
 ### (2) Chia 6 lọ (theo TỔNG tiền thực nhận · tỷ lệ 55/10/10/10/10/5)
 
 | Lọ | % | Số tiền chia vào | Đã tiêu hôm nay | Còn lại |
@@ -47,6 +49,8 @@
 | **TỔNG** | **100%** |  |  |  |
 
 > Kiểm: tổng 6 lọ = tổng tiền thực nhận (lệch là sai). Lọ Đầu tư gánh phần dư khi làm tròn.
+
+- [ ] ⬜ Có chia tiền vào 6 lọ hôm nay (> 0 mới tính hoàn thành): _______ đ (TK0)
 
 ### (3) Đã chi trong ngày
 

@@ -56,10 +56,12 @@ Lấy số từ **nguồn thật (mục 5)**, KHÔNG hỏi nếu tự lấy đư
 Chia 6 lọ tính 55/10/10/10/10/5 (tiền = 0 thì mọi lọ = 0). Nguồn thiếu/không rõ mới hỏi anh Đức.
 Điền vào bảng mục IV, tick các dòng, rồi ✅ thẻ "Kiểm đếm" trên Lịch.
 
-**⚠️ QUY TẮC SỐ 0 (chỉ thị anh Đức 09/09):** việc nào có **giá trị = 0 thì KHÔNG tick** `[x]`,
-không tính là việc hoàn thành — ví dụ **0 khách trả hàng**, **0đ tiền thực nhận / 0đ chia 6 lọ**.
-Vẫn ghi số 0 vào bảng/dòng (minh bạch), nhưng để checkbox `[ ] ⬜` và ghi chú "→ 0, KHÔNG tính hoàn thành".
-Chỉ tick khi giá trị > 0 (có khách thật, có tiền thật).
+**⚠️ QUY TẮC SỐ 0 (chỉ thị anh Đức 09/09):** trong mục IV có **3 đầu việc tính vào %** (đều là checkbox):
+**(1) Có tiền thực nhận · (2) Có chia tiền vào 6 lọ · (4) Số khách trả hàng**. Việc nào có
+**giá trị = 0 thì KHÔNG tick** `[x]`, không tính hoàn thành — 0đ tiền thực nhận, 0đ chia 6 lọ,
+0 khách trả hàng đều để `[ ] ⬜`. Vẫn ghi số 0 vào bảng/dòng cho minh bạch. Chỉ tick khi giá trị > 0.
+(Template `_MAU-DMO.md` đã có sẵn 2 dòng checkbox "Có tiền thực nhận" + "Có chia tiền vào 6 lọ" ngay dưới
+bảng (1) và (2) — điền số & tick khi > 0.)
 
 ### Tick việc 1 — chạy bộ
 Số km · thời gian lấy từ **footage my-life (mục 5)**, không hỏi nếu tự lấy được.
