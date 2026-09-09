@@ -49,6 +49,12 @@ Thêm dòng `- [ ] ⬜ <việc>` vào mục tương ứng trong file DMO (thư�
 dưới nhãn `**Việc phát sinh hôm nay:**`). Rồi đổ vào **mô tả instance hôm nay** của thẻ Lịch
 liên quan (mục 4) — KHÔNG sửa event gốc (tránh lặp sang ngày sau).
 
+**⚠️ TỰ GIÁC ĐỒNG BỘ LỊCH (chỉ thị anh Đức 09/09):** mỗi khi thêm/sửa việc phát sinh hoặc thay đổi
+kế hoạch trong file DMO → **TỰ ĐỘNG đổ luôn lên thẻ Lịch instance ngày đó, KHÔNG chờ anh nhắc.**
+Cách: FIND_EVENT thẻ "💰 3. Làm việc tạo ra tiền" ngày đó → PATCH `description` (giữ 2 việc gốc
+xưởng dệt + content, thêm khối `📝 Việc phát sinh <ngày>:` bên dưới). Chỉ PATCH instance ngày đó,
+không đụng event gốc. Xong báo lại cho anh đã đồng bộ Lịch.
+
 ### Chốt kiểm đếm cuối ngày (mục IV)
 Lấy số từ **nguồn thật (mục 5)**, KHÔNG hỏi nếu tự lấy được:
 - (1) tiền thực nhận · (3) chia 6 lọ → Excel 6 lọ; (2) đã chi → **footage my-life** (nhật ký/event/ảnh hoá đơn).
