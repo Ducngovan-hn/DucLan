@@ -40,8 +40,15 @@ cộng đồng PTL), đời sống gia đình** → my-life. **Không chắc →
 4. **Claude đọc lưới** `my-life\_phanloai\<ngày>\grid-NN.jpg` (Read) đối chiếu `map.json`,
    ghi `my-life\_phanloai\<ngày>\quyet-dinh.json` = `{"xuong":[ô...], "khong_chac":[ô...]}`.
    Chỉ liệt kê ô **chắc chắn** là xưởng vào `xuong`.
+   - **Ảnh ủy nhiệm chi / biên lai chuyển khoản thanh toán** (screenshot app ngân hàng —
+     Techcombank/Vietcombank "Chuyển thành công"...) → **XÓA, KHÔNG LƯU** (anh Đức chốt 05/09).
+     Nếu cần số cho chi tiêu, ĐỌC số ghi vào nhật ký trước rồi xóa file (full-res + bản nhẹ).
+     Ghi các ô này vào nhóm `"xoa":[ô...]` trong quyet-dinh.json để xóa khỏi kho.
+   - **Nếp tự động (script lo):** có bản chỉnh sửa `IMG_E<num>` thì bản gốc `IMG_<num>` đã bị
+     `to_chuc_kho.py` loại từ bước 2 — chỉ còn bản edit.
 
-5. **Tách phần xưởng sang kho xưởng** (Python, không token):
+5. **Xóa ảnh ủy nhiệm chi** (nhóm `xoa`): rm full-res + bản nhẹ của các ô đó trong my-life,
+   rồi `reindex_kho.py`. **Tách phần xưởng sang kho xưởng** (Python, không token):
    ```
    PYTHONIOENCODING=utf-8 PYTHONUTF8=1 python tools/phanloai_apdung.py --tu "C:\Users\admin\footage-content\my-life" --den "C:\Users\admin\footage-content\2026-content-xuong-bo" --nhom xuong
    ```

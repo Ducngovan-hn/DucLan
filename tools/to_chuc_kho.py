@@ -149,6 +149,18 @@ def main() -> int:
         print("\n❌ Không thấy file ảnh/video/audio nào trong nguồn.")
         return 1
 
+    # Nếu có bản chỉnh sửa IMG_E<num> thì BỎ bản gốc IMG_<num> (anh Đức chốt 05/09:
+    # giữ bản edit, bỏ gốc). Chỉ áp cho cặp cùng số hiệu.
+    da_edit = {p.stem[5:] for p in files if p.stem.startswith("IMG_E")}
+    if da_edit:
+        truoc = len(files)
+        files = [p for p in files
+                 if not (p.stem.startswith("IMG_") and not p.stem.startswith("IMG_E")
+                         and p.stem[4:] in da_edit)]
+        bo = truoc - len(files)
+        if bo:
+            print(f"   ↪ Bỏ {bo} bản gốc vì đã có bản chỉnh sửa IMG_E (giữ bản edit).")
+
     tong = sum(p.stat().st_size for p in files)
     print(f"Tìm thấy {len(files)} file · {human(tong)}")
     print("   (đọc ngày EXIF hàng loạt...)")

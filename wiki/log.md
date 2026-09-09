@@ -269,3 +269,7 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-09-02] update | kich-ban-dung | Bo cổ áo polo là gì? (Ngày 1/28, nhóm KT) · 10 clip/ảnh thật (video máy dệt 22/08 + hero bo 19/08 + macro bo 08/08 + bảng màu/bo cổ 04/08) · giọng AI (edge-tts vi-VN-NamMinh) · short dọc 9:16 44.7s, phụ đề cháy chữ nhấn cam. Thiếu: video kéo giãn động (Shot 5) + anh Đức talking-head CTA (Shot 7). Xuất: production/content/dung/2026-09-02-bo-co-polo-la-gi.mp4 + 3 gói đăng. Liên hệ [ĐIỀN] chờ anh Đức điền SOP.
 
 ## [2026-09-04] ingest | Footage content xưởng 03/09 (bó bo Trắng 100/ya 100 + biên lai NCC nội bộ) & 04/09 (đống vải bo xanh ngọc) → 2 trang footage-xuong-2026-09-03/04 trong tom-tat-nguon/; cập nhật index.md
+
+## [2026-09-07] ingest | Footage content xưởng 07/09 (bó bo trắng + navy "81 bộ" + màn hình máy dệt) → footage-xuong-2026-09-07; cập nhật index.md
+
+## [2026-09-08] ingest | Footage content xưởng 08/09 (kho bó bo cam/navy + máy dệt/cuộn sợi + đơn M C Hằng + vải trắng) → footage-xuong-2026-09-08; cập nhật index.md

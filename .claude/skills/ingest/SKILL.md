@@ -39,6 +39,9 @@ GPS trong `index/<ngày>.json` TRƯỚC** (reverse-geocode), chỉ hỏi khi GPS
    - 5–10 dòng, mọi entity nhắc tới đều `[[wikilink]]` (tên không dấu).
    - người thân giữ **slug quan hệ** `[[con-gai]]`, `[[vo]]`, `[[anh-duc]]` (anh Đức đã chốt).
    - chỗ không chắc ghi **(suy đoán)** / **(chưa rõ)**, không bịa.
+   - **KHÔNG lưu thông tin cá nhân nhạy cảm** (anh Đức chốt 05/09): ngày sinh người thân,
+     số điện thoại, địa chỉ nhà, số tài khoản, biển số... — dù suy ra được từ ảnh cũng
+     KHÔNG ghi vào wiki/nhật ký. Chỉ ghi hoạt động/sự kiện, không ghi dữ liệu định danh.
    - **BẮT BUỘC mục "## Chi tiêu trong ngày"** (anh Đức chốt 3/9): bảng các khoản chi
      đọc được từ ảnh hoá đơn / chuyển khoản / đơn hàng ngày đó (Mục | Số tiền | Nguồn IMG),
      rồi dòng **Tổng ghi nhận được**. Chỉ ghi **số đúng trên ảnh**, không đoán; khoản không

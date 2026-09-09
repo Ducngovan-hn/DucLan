@@ -118,6 +118,8 @@ tags:
 - [[footage-xuong-2026-09-01]] — 01/09: kiện hàng gửi (che thông tin khách nếu đăng).
 - [[footage-xuong-2026-09-03]] — 03/09: bó bo trắng/navy đóng đơn "Trắng 100/ya 100" (+ biên lai NCC nội bộ).
 - [[footage-xuong-2026-09-04]] — 04/09: đống vải bo xanh ngọc trải sàn (b-roll màu mới).
+- [[footage-xuong-2026-09-07]] — 07/09: bó bo trắng + navy "81 bộ" đóng đơn + màn hình máy dệt.
+- [[footage-xuong-2026-09-08]] — 08/09: kho bó bo cam/navy + máy dệt/cuộn sợi + đơn khách + vải trắng.
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
