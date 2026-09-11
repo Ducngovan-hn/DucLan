@@ -18,6 +18,10 @@ mô hình 6 lọ tiền. Chi tiết nền: `CLAUDE.md` mục 10, `production/dmo
    nguồn thiếu/không rõ mới HỎI anh Đức. Tuyệt đối không tự điền số đoán.
 3. **Tiếng Việt toàn bộ**, gọi người dùng là **anh Đức**.
 4. **% tiến độ** luôn tính bằng `python tools/dmo.py bao-cao --ngay <ngày>`, không đếm tay/đoán.
+5. **BẮT BUỘC đọc ảnh ghi chú my-life** (chỉ thị 11/09): mỗi khi **TẠO DMO** và mỗi khi **TỔNG KẾT ngày**,
+   PHẢI kiểm + đọc ảnh trong footage my-life ngày đó (`C:\Users\admin\footage-content\my-life\photo\<ngày>\...`)
+   — bảng kế hoạch/việc anh viết tay, ảnh hoá đơn. Có việc → tự thêm vào DMO + đổ lên Lịch (chi tiết mục 3).
+   Ảnh tích **✓ = đã làm**, không tích = chưa. Chưa có folder ảnh (chưa offload) → báo anh, không bịa. KHÔNG bỏ bước này.
 
 ## 1. Cấu trúc
 
