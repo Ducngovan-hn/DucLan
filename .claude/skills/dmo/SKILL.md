@@ -49,6 +49,12 @@ Thêm dòng `- [ ] ⬜ <việc>` vào mục tương ứng trong file DMO (thư�
 dưới nhãn `**Việc phát sinh hôm nay:**`). Rồi đổ vào **mô tả instance hôm nay** của thẻ Lịch
 liên quan (mục 4) — KHÔNG sửa event gốc (tránh lặp sang ngày sau).
 
+**⚠️ TỰ ĐỌC ẢNH MY-LIFE → CHO VÀO DMO (chỉ thị anh Đức 11/09):** mỗi khi tạo DMO / tổng kết ngày,
+TỰ ĐỘNG kiểm footage my-life ngày đó (`C:\Users\admin\footage-content\my-life\photo\<ngày>\...`),
+đọc ảnh bảng kế hoạch/việc anh viết tay (và ảnh hoá đơn). Có việc mới → tự thêm vào DMO (mục III việc
+phát sinh) + đổ lên Lịch. Ảnh bảng anh tích **✓ = đã làm**, không tích = chưa. KHÔNG hỏi, tự làm.
+Nếu chưa có folder ảnh ngày đó (chưa offload) → báo anh biết là chưa có ảnh, không bịa.
+
 **⚠️ TỰ GIÁC ĐỒNG BỘ LỊCH (chỉ thị anh Đức 09/09):** mỗi khi thêm/sửa việc phát sinh hoặc thay đổi
 kế hoạch trong file DMO → **TỰ ĐỘNG đổ luôn lên thẻ Lịch instance ngày đó, KHÔNG chờ anh nhắc.**
 Cách: FIND_EVENT thẻ "💰 3. Làm việc tạo ra tiền" ngày đó → PATCH `description` (giữ 2 việc gốc
