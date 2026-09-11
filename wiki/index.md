@@ -120,6 +120,8 @@ tags:
 - [[footage-xuong-2026-09-04]] — 04/09: đống vải bo xanh ngọc trải sàn (b-roll màu mới).
 - [[footage-xuong-2026-09-07]] — 07/09: bó bo trắng + navy "81 bộ" đóng đơn + màn hình máy dệt.
 - [[footage-xuong-2026-09-08]] — 08/09: kho bó bo cam/navy + máy dệt/cuộn sợi + đơn khách + vải trắng.
+- [[footage-xuong-2026-09-09]] — 09/09: kiện Viettel + kho bó bo + 7 chứng từ hợp đồng/đơn/biên bản (nội bộ).
+- [[footage-xuong-2026-09-10]] — 10/09: 2 kiện bo thành phẩm đóng gói theo đơn (bích/đỏ đô/than/trắng kẻ đen; bó size 38–42).
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.

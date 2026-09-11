@@ -273,3 +273,7 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-09-07] ingest | Footage content xưởng 07/09 (bó bo trắng + navy "81 bộ" + màn hình máy dệt) → footage-xuong-2026-09-07; cập nhật index.md
 
 ## [2026-09-08] ingest | Footage content xưởng 08/09 (kho bó bo cam/navy + máy dệt/cuộn sợi + đơn M C Hằng + vải trắng) → footage-xuong-2026-09-08; cập nhật index.md
+
+## [2026-09-09] ingest | Footage content xưởng 09/09 (kiện Viettel + kho bó bo + 7 chứng từ hợp đồng/đơn/biên bản Bform, đánh dấu nội bộ) → footage-xuong-2026-09-09. 2 ủy nhiệm chi XBO T8 không lưu. my-life 9/9 giữ IMG_6743 (ghi chú DMO của anh Đức)
+
+## [2026-09-10] ingest | Footage xưởng 10/9: 2 kiện bo thành phẩm đóng gói theo đơn (IMG_6754, IMG_6760). Nguồn: footage-content/2026-content-xuong-bo
