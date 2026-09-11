@@ -153,8 +153,8 @@ Sau khi tự lấy, luôn báo lại số cho anh Đức khi ghi vào DMO (minh 
 ## 6. Đồng bộ Git — TỰ ĐỘNG sau mỗi lần chốt DMO (anh Đức không phải nhắc)
 
 Chỉ thị anh Đức (03/09): **tạo/chốt DMO xong là tự đồng bộ, không chờ nhắc.** Quy trình:
-1. `git add -A && git commit -m "..."` — chạy được (local, không bị chặn) → LUÔN tự làm.
-2. `git push` — bị auto-classifier chặn với Claude → **tự đưa sẵn khối lệnh `git push` (tag bash, có nút Run)
-   cho anh Đức bấm ngay** ở cuối phản hồi, KHÔNG chờ anh yêu cầu.
-3. Nếu anh Đức đã thêm rule `Bash(git push:*)` vào settings thì thử push thẳng trước; chặn thì mới đưa nút.
+1. `git add -A && git commit -m "..."` — chạy được (local) → LUÔN tự làm.
+2. `git push` — anh Đức đã thêm rule `Bash(git push:*)` vào settings (11/09) nên **chạy thẳng, KHÔNG bị chặn**
+   → sau mỗi commit TỰ CHẠY `git push` luôn, KHÔNG cần đưa nút cho anh bấm. (Nếu lỡ bị chặn ở máy khác
+   chưa có rule → mới đưa khối lệnh `git push` tag bash cho anh bấm Run.)
 Xem [[he-thong-dmo-va-git]].
