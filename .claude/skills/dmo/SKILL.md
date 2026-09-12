@@ -143,6 +143,15 @@ không lấy được (Zalo chưa mở, token Garmin lỗi…) hoặc số bất
 
 Sau khi tự lấy, luôn báo lại số cho anh Đức khi ghi vào DMO (minh bạch nguồn).
 
+**🚨 BẮT BUỘC KHI ĐẾM KHÁCH TRẢ HÀNG (đã sai nhiều lần — 12/09):**
+1. **KHÔNG ĐẾM BẰNG MẮT. LUÔN chạy công cụ** `python tools/zalo_trahang.py <file_dump> --ngay d/m`
+   → nó quét TOÀN BỘ file theo tiền tố "dd/m: trả <tên>" (không phụ thuộc nhãn Hôm nay/Hôm qua,
+   không cắt dòng), in ra từng đơn + số khách + tổng tiền. Lấy đúng con số máy đếm đó điền vào DMO.
+2. **TUYỆT ĐỐI KHÔNG `tail`** vài chục dòng cuối để đếm — tin một ngày rải từ sáng tới tối, tail rớt đơn đầu khối.
+3. **ĐỐI CHIẾU CHÉO BẢNG TAY** anh Đức: nếu mục "Trả hàng" bảng tay tích ✓ nhiều tên hơn công cụ đếm
+   → dump chưa đủ (chạy lại `zalo_dump.mjs` với --until sớm hơn) rồi đếm lại. Số phải khớp mới chốt.
+4. Một khách có thể có >1 đơn/ngày (công cụ tự gộp theo tên khi đếm "số khách", vẫn liệt kê đủ từng đơn).
+
 **⚠️ 2 BẪY SÓT SỐ (đã mắc 03/09 — luôn phòng):**
 - **Excel cột ngày lưu nhầm:** anh Đức gõ "3/9" nhưng Excel lưu thành `2026-03-09` (đảo dd↔mm).
   → KHÔNG chỉ match chuỗi "3/9"; phải **đọc hết các dòng CUỐI bảng** (mới nhập) và soi cả ngày kiểu

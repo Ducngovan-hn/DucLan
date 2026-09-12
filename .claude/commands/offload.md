@@ -44,6 +44,9 @@ cộng đồng PTL), đời sống gia đình** → my-life. **Không chắc →
      Techcombank/Vietcombank "Chuyển thành công"...) → **XÓA, KHÔNG LƯU** (anh Đức chốt 05/09).
      Nếu cần số cho chi tiêu, ĐỌC số ghi vào nhật ký trước rồi xóa file (full-res + bản nhẹ).
      Ghi các ô này vào nhóm `"xoa":[ô...]` trong quyet-dinh.json để xóa khỏi kho.
+   - **Ảnh tiếng Trung** (sổ chép chữ Hán, bài học tiếng Trung của anh Đức) → **KHÔNG sang
+     xưởng**, vẫn ở my-life nhưng gom vào folder riêng. Ghi các ô này vào nhóm
+     `"tieng_trung":[ô...]` trong quyet-dinh.json (anh Đức chốt 12/09).
    - **Nếp tự động (script lo):** có bản chỉnh sửa `IMG_E<num>` thì bản gốc `IMG_<num>` đã bị
      `to_chuc_kho.py` loại từ bước 2 — chỉ còn bản edit.
 
@@ -54,8 +57,13 @@ cộng đồng PTL), đời sống gia đình** → my-life. **Không chắc →
    ```
    → chờ `✅ VERIFY ĐỦ` (tổng file trước=sau). Phần không phải xưởng ở lại my-life.
 
-6. **Dọn** `my-life\_phanloai\<ngày>` sau khi verify. **Báo cáo** anh Đức: số file mỗi kho,
-   danh sách `khong_chac` để soát.
+   **Gom ảnh tiếng Trung** (nhóm `tieng_trung`): chuyển full-res các ô đó từ
+   `photo\<ngày>\iphone\` sang `C:\Users\admin\footage-content\my-life\tieng-trung\<ngày>\`
+   (giữ full-res để đọc chữ; xoá bản nhẹ tương ứng — tạo lại được), rồi `reindex_kho.py`
+   lại kho my-life để index/<ngày>.json khớp số ảnh còn trong type-first.
+
+6. **Dọn** `my-life\_phanloai\<ngày>` sau khi verify. **Báo cáo** anh Đức: số file mỗi kho
+   (xưởng · my-life thường · tiếng Trung), danh sách `khong_chac` để soát.
 
 ## Sau khi xong
 Gợi ý `/kich-ban-dung` để dựng video + xuất 3 gói đăng (từ footage kho xưởng).
