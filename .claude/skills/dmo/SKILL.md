@@ -97,13 +97,20 @@ Chạy `dmo.py bao-cao --ngay <ngày> --cap-nhat` — **luôn kèm `--cap-nhat`*
 ở cuối file DMO tự nhảy số (không có cờ này thì chỉ in màn hình, dòng trong file vẫn `0/? · 0%`).
 Trình bày: đã xong (liệt kê), TIẾN ĐỘ n/N · P%, còn lại.
 
-### Bài tổng kết cuối ngày (chỉ thị anh Đức 11/09)
-Sau khi TỔNG KẾT / CHỐT ngày xong, LUÔN tự viết thêm **1 bài tổng kết ngắn** (giọng gần gũi, động viên,
-xưng "anh") và lưu vào **cuối file DMO ngày đó** dưới tiêu đề `## 🌙 TỔNG KẾT CUỐI NGÀY`. Cấu trúc:
+### SAU KHI TỔNG KẾT NGÀY — LUÔN LÀM ĐỦ 3 VIỆC (chỉ thị anh Đức 11–12/09)
+Chốt xong DMO hôm nay + tạo DMO mai, LUÔN tự làm tiếp 3 việc sau (KHÔNG hỏi):
+
+**1. Viết 1 bài tổng kết ngắn + lưu lại.** Giọng gần gũi, động viên, xưng "anh". Lưu vào **cuối file DMO
+ngày đó** dưới tiêu đề `## 🌙 TỔNG KẾT CUỐI NGÀY`. Cấu trúc:
 - **"Hôm nay anh đã làm được:"** — 1 đoạn ngắn điểm lại việc đã xong, khen đúng chỗ, nêu con số/việc cụ thể.
 - **"Điều làm ngày mai tốt hơn:"** — 2–4 gạch đầu dòng việc còn dở / cần ưu tiên, nói nhẹ nhàng, thực tế.
 - Kết bằng 1 câu động viên ngắn (trích dẫn `>`).
-Viết xong hiển thị cho anh luôn trong phản hồi. KHÔNG hỏi, tự làm mỗi ngày.
+
+**2. Hiện luôn DMO HÔM NAY** (ngày vừa chốt) — trình bày đầy đủ các mục + % để anh xem lại.
+
+**3. Hiện luôn DMO NGÀY HÔM SAU** (đã tạo) — liệt kê việc nếp + việc phát sinh/kế hoạch để anh nắm trước.
+
+Cả 3 việc hiển thị trong phản hồi, sau đó commit + tự `git push`.
 
 ### Tạo DMO ngày mai + đánh giá cuối ngày (mục VI)
 `dmo.py tao --ngay <mai>` (tự bê việc phát sinh tồn). Hỏi anh Đức muốn đổ việc tồn lên thẻ Lịch mai
