@@ -106,11 +106,13 @@ ngày đó** dưới tiêu đề `## 🌙 TỔNG KẾT CUỐI NGÀY`. Cấu trú
 - **"Điều làm ngày mai tốt hơn:"** — 2–4 gạch đầu dòng việc còn dở / cần ưu tiên, nói nhẹ nhàng, thực tế.
 - Kết bằng 1 câu động viên ngắn (trích dẫn `>`).
 
-**2. Hiện luôn DMO HÔM NAY** (ngày vừa chốt) — trình bày đầy đủ các mục + % để anh xem lại.
+**2. Hiện luôn DMO HÔM NAY** (ngày vừa chốt) — **gửi file .md** cho anh bằng SendUserFile
+(`production/dmo/DMO-<hôm nay>.md`), không chỉ tóm tắt text.
 
-**3. Hiện luôn DMO NGÀY HÔM SAU** (đã tạo) — liệt kê việc nếp + việc phát sinh/kế hoạch để anh nắm trước.
+**3. Hiện luôn DMO NGÀY HÔM SAU** (đã tạo) — **gửi file .md** `production/dmo/DMO-<mai>.md` bằng SendUserFile.
 
-Cả 3 việc hiển thị trong phản hồi, sau đó commit + tự `git push`.
+→ Gộp việc 2+3: gọi SendUserFile 1 lần với cả 2 file .md (display "attach"). Kèm bài tổng kết (việc 1)
+trong phản hồi text. Sau đó commit + tự `git push`.
 
 ### Tạo DMO ngày mai + đánh giá cuối ngày (mục VI)
 `dmo.py tao --ngay <mai>` (tự bê việc phát sinh tồn). Hỏi anh Đức muốn đổ việc tồn lên thẻ Lịch mai
