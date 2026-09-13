@@ -277,3 +277,6 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-09-09] ingest | Footage content xưởng 09/09 (kiện Viettel + kho bó bo + 7 chứng từ hợp đồng/đơn/biên bản Bform, đánh dấu nội bộ) → footage-xuong-2026-09-09. 2 ủy nhiệm chi XBO T8 không lưu. my-life 9/9 giữ IMG_6743 (ghi chú DMO của anh Đức)
 
 ## [2026-09-10] ingest | Footage xưởng 10/9: 2 kiện bo thành phẩm đóng gói theo đơn (IMG_6754, IMG_6760). Nguồn: footage-content/2026-content-xuong-bo
+
+## [2026-09-12] ingest | Footage xuong 12/9: chuoi soi->may det->bo->dong goi (10 anh+3 video). Nguon: footage-content/2026-content-xuong-bo
+## [2026-09-13] ingest | Footage xuong 13/9: 3 kien bo thanh pham dong goi theo don. Nguon: footage-content/2026-content-xuong-bo

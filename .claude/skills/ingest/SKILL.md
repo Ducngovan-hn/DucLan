@@ -86,6 +86,13 @@ KHÔNG trộn đời sống cá nhân vào đây (cái đó thuộc Nhánh A).
 ---
 
 ## Luật cứng
+- **Tự commit sau khi ingest (anh Đức chốt 13/09) — KHÔNG hỏi lại:** ingest xong thì
+  commit ngay các thay đổi, **tách 2 repo riêng**:
+  - `C:\Users\admin\DucLan` (nhánh B xưởng): trang footage + index.md + log.md.
+  - `C:\Users\admin\my-life` (nhánh A đời sống): event/entity/journal + raw/photos + log.md.
+  Chỉ stage đúng file của việc ingest (`git add wiki ...` / `raw/photos`), KHÔNG quét rác
+  Obsidian (Untitled.*, Clippings/, .obsidian/graph.json...). Commit xong `git push` luôn
+  (nếu classifier chặn push thì báo anh tự Run). Commit message tiếng Việt không dấu.
 - Footage cá nhân ↔ xưởng đã tách 2 kho từ `/offload`; ingest đúng kho theo nhánh.
 - Trước khi ghi vào bất kỳ thư mục nào, chắc chắn đó là wiki đích đúng (my-life vault
   vs DucLan wiki) — **đã từng nhầm vault một lần**, luôn kiểm.
