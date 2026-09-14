@@ -124,6 +124,7 @@ tags:
 - [[footage-xuong-2026-09-10]] — 10/09: 2 kiện bo thành phẩm đóng gói theo đơn (bích/đỏ đô/than/trắng kẻ đen; bó size 38–42).
 - [[footage-xuong-2026-09-12]] — 12/09: đủ chuỗi sợi → máy dệt → bo thành phẩm → đóng gói (10 ảnh + 3 video).
 - [[footage-xuong-2026-09-13]] — 13/09: 3 kiện bo thành phẩm đóng gói theo đơn (than/đỏ/xanh).
+- [[footage-xuong-2026-09-14]] — 14/09: 2 kiện bo thành phẩm đóng gói theo đơn (than/trắng/cam).
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.

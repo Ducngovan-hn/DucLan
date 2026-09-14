@@ -280,3 +280,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 
 ## [2026-09-12] ingest | Footage xuong 12/9: chuoi soi->may det->bo->dong goi (10 anh+3 video). Nguon: footage-content/2026-content-xuong-bo
 ## [2026-09-13] ingest | Footage xuong 13/9: 3 kien bo thanh pham dong goi theo don. Nguon: footage-content/2026-content-xuong-bo
+
+## [2026-09-14] ingest | Footage xuong 14/9: 2 kien bo thanh pham dong goi. Uy nhiem chi tien dien T8 (11.788.455d) khong luu anh. Nguon: footage-content/2026-content-xuong-bo
