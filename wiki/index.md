@@ -125,6 +125,7 @@ tags:
 - [[footage-xuong-2026-09-12]] — 12/09: đủ chuỗi sợi → máy dệt → bo thành phẩm → đóng gói (10 ảnh + 3 video).
 - [[footage-xuong-2026-09-13]] — 13/09: 3 kiện bo thành phẩm đóng gói theo đơn (than/đỏ/xanh).
 - [[footage-xuong-2026-09-14]] — 14/09: 2 kiện bo thành phẩm đóng gói theo đơn (than/trắng/cam).
+- [[footage-xuong-2026-09-15]] — 15/09: 2 kiện bo đóng gói + 1 kiện gửi khách (che thông tin khách).
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
