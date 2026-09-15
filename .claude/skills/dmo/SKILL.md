@@ -137,6 +137,13 @@ tác động lên **instance** ngày đó, KHÔNG lên event gốc.
 
 ## 5. Nguồn dữ liệu — TỰ ĐỘNG LẤY, KHÔNG HỎI
 
+**⚠️ ƯU TIÊN ĐỌC DMO TRƯỚC (chỉ thị anh Đức 15/09):** khi cần số liệu đã có trong DMO
+(tiền thực nhận, tiền trả hàng/khách mỗi ngày, %, việc đã làm…) → ĐỌC THẲNG file DMO
+`production/dmo/DMO-*.md`, KHÔNG mở Zalo/Excel lại. Anh Đức tổng hợp DMO mỗi ngày chính là để
+dùng lại — đọc file text local vừa nhanh vừa rẻ token. Chỉ vào Zalo/Excel khi số CHƯA có trong
+DMO (ngày chưa chốt) hoặc cần soát lại nghi ngờ. Ví dụ: biểu đồ tiền trả hàng → `tools/bieu_do_tra_hang.py`
+đọc từ DMO. (Lưu ý parse: bỏ số < 100.000 để không cộng nhầm đơn giá kiểu 6.500/8.500.)
+
 **Chỉ thị thường trực của anh Đức (01/09/2026):** mỗi khi báo cáo / chốt kiểm đếm, MẶC ĐỊNH tự lấy
 3 nguồn dưới đây rồi điền thẳng vào báo cáo — KHÔNG hỏi anh Đức trước. Chỉ báo lại khi nguồn
 không lấy được (Zalo chưa mở, token Garmin lỗi…) hoặc số bất thường cần anh xác nhận.
