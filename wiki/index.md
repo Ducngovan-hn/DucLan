@@ -126,6 +126,7 @@ tags:
 - [[footage-xuong-2026-09-13]] — 13/09: 3 kiện bo thành phẩm đóng gói theo đơn (than/đỏ/xanh).
 - [[footage-xuong-2026-09-14]] — 14/09: 2 kiện bo thành phẩm đóng gói theo đơn (than/trắng/cam).
 - [[footage-xuong-2026-09-15]] — 15/09: 2 kiện bo đóng gói + 1 kiện gửi khách (che thông tin khách).
+- [[footage-xuong-2026-09-16]] — 16/09: toàn cảnh xưởng (hero) + 4 kiện bo đóng gói theo đơn.
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
