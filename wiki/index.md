@@ -128,6 +128,10 @@ tags:
 - [[footage-xuong-2026-09-15]] — 15/09: 2 kiện bo đóng gói + 1 kiện gửi khách (che thông tin khách).
 - [[footage-xuong-2026-09-16]] — 16/09: toàn cảnh xưởng (hero) + 4 kiện bo đóng gói theo đơn.
 - [[footage-xuong-2026-09-17]] — 17/09: chuỗi sợi/vải → máy dệt → bo → đóng gói (8 ảnh) + chứng từ nội bộ.
+- [[footage-xuong-2026-09-18]] — 18/09: 1 kiện bo đóng gói ("160 bộ").
+- [[footage-xuong-2026-09-19]] — 19/09: 2 kiện bo đóng gói (than/xanh).
+- [[footage-xuong-2026-09-20]] — 20/09: bo đóng gói + chở hàng đi giao + cận cảnh cổ bo.
+- [[footage-xuong-2026-09-21]] — 21/09: bo đóng gói nhiều màu + mẫu vải bo kẻ sọc.
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.

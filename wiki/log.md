@@ -288,3 +288,8 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-09-16] ingest | Footage xuong 16/9: toan canh xuong (hero) + 4 kien bo dong goi. Nguon: footage-content/2026-content-xuong-bo
 
 ## [2026-09-17] ingest | Footage xuong 17/9: chuoi soi/vai->may det->bo->dong goi (8 anh) + chung tu noi bo. Nguon: footage-content/2026-content-xuong-bo
+
+## [2026-09-18] ingest | Footage xuong 18/9: 1 kien bo (160 bo). Nguon: footage-content/2026-content-xuong-bo
+## [2026-09-19] ingest | Footage xuong 19/9: 2 kien bo. Nguon: footage-content/2026-content-xuong-bo
+## [2026-09-20] ingest | Footage xuong 20/9: bo dong goi + cho hang giao + co bo. Nguon: footage-content/2026-content-xuong-bo
+## [2026-09-21] ingest | Footage xuong 21/9: bo nhieu mau + vai bo ke soc. Nguon: footage-content/2026-content-xuong-bo
