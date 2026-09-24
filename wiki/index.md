@@ -37,6 +37,7 @@ tags:
 - [[c-vi]] — Đầu mối thứ hai tại Laifude Vina, cùng MST với [[c-nhi]]. 4 đơn / 868 nghìn; nhiều đơn nhất, nhỏ nhất.
 - [[hieu]] — Cty TNHH Apex Lab (MST 0111414831). Khách MỚI duy nhất của 2 tuần 13–27/7; 1 đơn 11 tr bo áo khoác.
 - [[cty-bform]] — Cty TNHH May mặc Bform (MST 0107951632). CHƯA có hoá đơn chính thức; nháp 22/7 đã huỷ, nháp 27/7 đang treo 7,2 tr.
+- [[thay-luong]] — Khách đặt định lượng riêng "Tím than kẻ Cam"; ví dụ tính NL cho đơn 4500 bộ/loại (≈694kg tím than + 129kg cam).
 
 ## Đối thủ
 > Đối thủ cạnh tranh. Nằm trong `wiki/competitors/` (loai: `doi-thu`).
@@ -84,6 +85,7 @@ tags:
 > Tóm tắt từng file nguồn trong `raw/`. Nằm trong `wiki/tom-tat-nguon/`.
 
 - [[sach-cao-cao-len-doc]] — Sách ngụ ngôn làm giàu của Phạm Thành Long (390 trang gốc); cấu trúc, thông điệp trục, hệ nhân vật.
+- [[dinh-luong-thay-luong-tim-than-cam]] — Định lượng pha màu cho bo Tím than kẻ Cam (khách [[thay-luong]]): 88,24%/11,76% (áo khoác), kg/1000 sp (áo hè).
 
 **Footage content xưởng** (mục lục footage để dựng content, mỗi ngày 1 trang — tháng 8/2026)
 - [[footage-xuong-2026-08-01]] — 01/08: 3 ảnh, kiện bo cổ navy + phối màu chờ giao.
@@ -132,6 +134,9 @@ tags:
 - [[footage-xuong-2026-09-19]] — 19/09: 2 kiện bo đóng gói (than/xanh).
 - [[footage-xuong-2026-09-20]] — 20/09: bo đóng gói + chở hàng đi giao + cận cảnh cổ bo.
 - [[footage-xuong-2026-09-21]] — 21/09: bo đóng gói nhiều màu + mẫu vải bo kẻ sọc.
+- [[footage-xuong-2026-09-22]] — 22/09: 1 kiện bo đóng gói.
+- [[footage-xuong-2026-09-23]] — 23/09: ghi tính sợi đơn (a Trường) + máy dệt + 2 kiện bo.
+- [[footage-xuong-2026-09-24]] — 24/09: 2 kiện bo đóng gói (vàng/trắng).
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.

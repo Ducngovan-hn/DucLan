@@ -293,3 +293,11 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-09-19] ingest | Footage xuong 19/9: 2 kien bo. Nguon: footage-content/2026-content-xuong-bo
 ## [2026-09-20] ingest | Footage xuong 20/9: bo dong goi + cho hang giao + co bo. Nguon: footage-content/2026-content-xuong-bo
 ## [2026-09-21] ingest | Footage xuong 21/9: bo nhieu mau + vai bo ke soc. Nguon: footage-content/2026-content-xuong-bo
+
+## [2026-09-23] ingest | Định lượng Thầy Lương — bo Tím than kẻ Cam (ảnh ghi tay) → trang [[dinh-luong-thay-luong-tim-than-cam]] trong tom-tat-nguon/. Ảnh lưu tại raw/xưởng  bo Đức Lan/Định lượng/. Cập nhật index.md.
+
+## [2026-09-23] update | Thầy Lương là khách hàng (không phải thợ nhuộm nội bộ) — tạo trang [[thay-luong]] trong wiki/customers/, kèm ví dụ tính nguyên liệu cho đơn 4500 bộ áo khoác + 4500 bộ áo hè (anh Đức xác nhận số đúng): ≈693,86kg tím than + ≈129,29kg cam. Cập nhật liên kết ở [[dinh-luong-thay-luong-tim-than-cam]] và index.md.
+
+## [2026-09-22] ingest | Footage xuong 22/9: 1 kien bo. Nguon: footage-content/2026-content-xuong-bo
+## [2026-09-23] ingest | Footage xuong 23/9: ghi tinh soi don a Truong + may det + 2 kien bo. Nguon: footage-content/2026-content-xuong-bo
+## [2026-09-24] ingest | Footage xuong 24/9: 2 kien bo dong goi. Nguon: footage-content/2026-content-xuong-bo
