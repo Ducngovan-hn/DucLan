@@ -137,6 +137,7 @@ tags:
 - [[footage-xuong-2026-09-22]] — 22/09: 1 kiện bo đóng gói.
 - [[footage-xuong-2026-09-23]] — 23/09: ghi tính sợi đơn (a Trường) + máy dệt + 2 kiện bo.
 - [[footage-xuong-2026-09-24]] — 24/09: 2 kiện bo đóng gói (vàng/trắng).
+- [[footage-xuong-2026-09-25]] — 25/09: 1 kiện bo + phiếu gửi hàng qua nhà xe (nội bộ).
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.

@@ -301,3 +301,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-09-22] ingest | Footage xuong 22/9: 1 kien bo. Nguon: footage-content/2026-content-xuong-bo
 ## [2026-09-23] ingest | Footage xuong 23/9: ghi tinh soi don a Truong + may det + 2 kien bo. Nguon: footage-content/2026-content-xuong-bo
 ## [2026-09-24] ingest | Footage xuong 24/9: 2 kien bo dong goi. Nguon: footage-content/2026-content-xuong-bo
+
+## [2026-09-25] ingest | Footage xuong 25/9: 1 kien bo + phieu gui hang nha xe. Nguon: footage-content/2026-content-xuong-bo
