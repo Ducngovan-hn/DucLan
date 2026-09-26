@@ -65,24 +65,20 @@ cộng đồng PTL), đời sống gia đình** → my-life. **Không chắc →
 6. **Dọn** `my-life\_phanloai\<ngày>` sau khi verify. **Báo cáo** anh Đức: số file mỗi kho
    (xưởng · my-life thường · tiếng Trung), danh sách `khong_chac` để soát.
 
-7. **Backup #2 sang D:** (anh Đức chốt 26/09) — sync footage vừa cất sang ổ ngoài:
+7. **Backup #2 sang D:** (anh Đức chốt 26/09) — sync footage vừa cất sang ổ ngoài. Chạy QUA
+   PowerShell, đường dẫn BACKSLASH (chạy trong bash với `/` bị lỗi exit 16):
    ```
    robocopy "C:\Users\admin\footage-content" "D:\footage-content" /E /MT:16 /R:1 /W:2 /NFL /NDL /NP
    ```
-   (exit code 0–7 = OK). Giờ footage có 2 bản trên máy (C + D).
-
-8. **Xóa ảnh my-life trên iPhone** (anh Đức chốt 26/09) — CHỈ sau khi verify footage đã vào
-   **CẢ C + D**: xóa các ảnh/clip **my-life** của ngày đó khỏi iPhone cho nhẹ máy, **GIỮ NGUYÊN
-   ảnh xưởng** trên iPhone. Xóa qua MTP dễ chập chờn → làm cẩn thận theo tên file my-life,
-   báo rõ đã xóa gì. KHÔNG xóa ảnh xưởng.
+   (exit code 0–7 = OK). Giờ footage có 2 bản trên máy (C + D) + bản trên iPhone = 3 nơi.
 
 ## Sau khi xong
 Gợi ý `/kich-ban-dung` để dựng video + xuất 3 gói đăng (từ footage kho xưởng).
 
 ## Luật cứng
 - Chưa `✅ VERIFY ĐỦ` → chưa an toàn.
-- Đã có backup #2 (D:) → sau khi footage vào C + D + verify, **được xóa ảnh my-life trên iPhone**
-  (giữ ảnh xưởng). Script `to_chuc_kho` vẫn không tự xóa iPhone; việc xóa my-life làm ở bước 8.
+- **GIỮ FOOTAGE TRÊN CẢ 3 NƠI: C + D + iPhone — KHÔNG XÓA gì trên iPhone** (anh Đức chốt 26/09).
+  iPhone là bản backup thứ 3, luôn giữ nguyên (cả my-life lẫn xưởng).
 - Không chắc xưởng hay cá nhân → **để my-life**, đưa vào `khong_chac` cho anh Đức soát.
 - Muốn kéo 1 mục cá nhân ngược về xưởng (hoặc ngược lại): chạy `phanloai_apdung.py` với
   `--nhom`/`--tu`/`--den` phù hợp.
