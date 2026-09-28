@@ -140,6 +140,7 @@ tags:
 - [[footage-xuong-2026-09-25]] — 25/09: 1 kiện bo + phiếu gửi hàng qua nhà xe (nội bộ).
 - [[footage-xuong-2026-09-26]] — 26/09: 3 kiện bo thành phẩm đóng gói theo đơn.
 - [[footage-xuong-2026-09-27]] — 27/09: mẫu vải bo + 3 kiện bo đóng gói theo đơn.
+- [[footage-xuong-2026-09-28]] — 28/09: chuỗi sợi → máy dệt → bo → kho (5 ảnh + video mẫu màu).
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.

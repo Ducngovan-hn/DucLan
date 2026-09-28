@@ -307,3 +307,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-09-26] ingest | Footage xuong 26/9: 3 kien bo dong goi. Nguon: footage-content/2026-content-xuong-bo
 
 ## [2026-09-27] ingest | Footage xuong 27/9: mau vai bo + 3 kien bo dong goi. Nguon: footage-content/2026-content-xuong-bo
+
+## [2026-09-28] ingest | Footage xuong 28/9: chuoi soi->may det->bo->kho (5 anh + video mau mau). Nguon: footage-content/2026-content-xuong-bo
