@@ -23,6 +23,15 @@ mô hình 6 lọ tiền. Chi tiết nền: `CLAUDE.md` mục 10, `production/dmo
    — bảng kế hoạch/việc anh viết tay, ảnh hoá đơn. Có việc → tự thêm vào DMO + đổ lên Lịch (chi tiết mục 3).
    Ảnh tích **✓ = đã làm**, không tích = chưa. Chưa có folder ảnh (chưa offload) → báo anh, không bịa. KHÔNG bỏ bước này.
 
+   **🚨 CHỐNG SÓT BẢNG TÍCH (đã sót nhiều lần — 26/9, 29/9):** anh Đức thường chụp bảng tay ĐÃ TÍCH của
+   ngày X vào **SÁNG NGÀY X+1** (lúc điền nốt + lập kế hoạch hôm sau), nên ảnh bảng tích ngày X hay bị
+   offload vào **folder ngày X+1**. Vì vậy khi tổng kết ngày X:
+   - **LUÔN đọc ảnh CẢ folder ngày X LẪN folder ngày X+1** (và ngày X−1 nếu cần) để tìm bảng tích ngày X.
+   - **Mỗi bảng có "DATE X/9" ở đầu trang** — đọc dòng đó để xác định bảng thuộc ngày nào, KHÔNG tin theo folder.
+   - Bảng tích thường viết **bút xanh lá / có dấu ✓**; bảng kế hoạch (chưa tích) viết bút xanh dương.
+   - Nếu tìm hết cả 2–3 folder vẫn KHÔNG thấy bảng tích ngày X → **CHỦ ĐỘNG HỎI anh Đức chụp/xác nhận**,
+     TUYỆT ĐỐI không tự kết luận "không có bảng" rồi bỏ trống việc (đã sai kiểu này 2 lần).
+
 ## 1. Cấu trúc
 
 - File mỗi ngày: `production/dmo/DMO-YYYY-MM-DD.md` (nguồn chân lý của ngày đó).
