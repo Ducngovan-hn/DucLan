@@ -143,6 +143,7 @@ tags:
 - [[footage-xuong-2026-09-28]] — 28/09: chuỗi sợi → máy dệt → bo → kho (5 ảnh + video mẫu màu).
 - [[footage-xuong-2026-09-29]] — 29/09: 1 kiện bo đóng gói (nơ/trơn).
 - [[footage-xuong-2026-09-30]] — 30/09: 3 kiện bo thành phẩm đóng gói (phân size).
+- [[footage-xuong-2026-10-01]] — 01/10: 1 kiện bo đóng gói theo đơn.
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
