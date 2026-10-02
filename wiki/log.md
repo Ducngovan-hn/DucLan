@@ -314,3 +314,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-09-30] ingest | Footage xuong 30/9: 3 kien bo dong goi phan size. Nguon: footage-content/2026-content-xuong-bo
 
 ## [2026-10-01] ingest | Footage xuong 1/10: 1 kien bo. Nguon: footage-content/2026-content-xuong-bo
+
+## [2026-10-02] ingest | footage xuong 02/10 (3 anh: dong kien, don Vuong 100 bo)

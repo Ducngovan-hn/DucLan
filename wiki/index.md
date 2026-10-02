@@ -144,6 +144,7 @@ tags:
 - [[footage-xuong-2026-09-29]] — 29/09: 1 kiện bo đóng gói (nơ/trơn).
 - [[footage-xuong-2026-09-30]] — 30/09: 3 kiện bo thành phẩm đóng gói (phân size).
 - [[footage-xuong-2026-10-01]] — 01/10: 1 kiện bo đóng gói theo đơn.
+- [[footage-xuong-2026-10-02]] — 02/10: đóng kiện giao hàng, đơn Vương 100 bộ (cổ-kẻ 80 bộ).
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
