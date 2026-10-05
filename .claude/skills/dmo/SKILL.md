@@ -94,7 +94,9 @@ Số km · thời gian lấy từ **footage my-life (mục 5)**, không hỏi n�
 ### Quy tắc tick MẶC ĐỊNH (chỉ thị anh Đức)
 - **Chạy bộ:** không thấy ảnh chạy trong footage my-life ngày đó → ghi thẳng **"không chạy"**,
   KHÔNG hỏi lại (anh Đức sẽ tự sửa nếu thực ra có chạy).
-- **Hôm nào CÓ chạy bộ → tự tick luôn "Đọc / nghe sách nói"** (anh Đức nghe audio khi chạy).
+- **🚨 Hôm nào CÓ chạy bộ → BẮT BUỘC tự tick luôn "Đọc / nghe sách nói"** (anh Đức luôn nghe audio khi chạy).
+  Đây là quy tắc GẮN LIỀN: ngay khi tick dòng chạy bộ (mục I), LẬP TỨC tick dòng nghe sách nói (mục II) —
+  không cần hỏi, không chờ anh nhắc. **Đã quên 2 lần (28/9, 4/10) khiến anh Đức khó chịu — không được quên lần 3.**
 - **Phalon (việc 5) → mặc định tick mỗi ngày** (anh Đức luôn làm trước khi ngủ).
 - **Tạo DMO ngày mai (việc 6) → mỗi lần TỔNG KẾT / CHỐT ngày là tự chạy `dmo.py tao` cho ngày mai
   rồi tick luôn dòng này, KHÔNG hỏi** (chỉ thị 04/09: anh Đức tự tạo DMO của mình, không cần báo em cập nhật).
