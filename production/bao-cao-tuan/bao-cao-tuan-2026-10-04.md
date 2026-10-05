@@ -13,6 +13,18 @@
 | Số ngày có DMO | **6/7** | **7/7** |
 | % DMO trung bình | **54%** | **60%** |
 
+### 1.1. Chi tiết DMO từng ngày trong tuần này
+
+| Ngày | Thứ | Việc đã xong | % |
+|---|---|---|---|
+| 28/9 | Thứ Hai | 15/18 | 83% |
+| 29/9 | Thứ Ba | 11/18 | 61% |
+| 30/9 | Thứ Tư | 11/19 | 58% |
+| 1/10 | Thứ Năm | 11/19 | 58% |
+| 2/10 | Thứ Sáu | 11/18 | 61% |
+| 3/10 | Thứ Bảy | 0/18 | **0%** — file DMO có nhưng chưa tick việc nào, kiểm đếm cuối ngày để trống (footer trong file ghi tạm "0/14" do chưa chạy lại `python tools/dmo.py bao-cao` sau khi thêm việc phát sinh; số 18 lấy theo đúng số ô việc đang có trong file) |
+| 4/10 | Chủ Nhật | — | **chưa có file DMO** — chưa được tạo (tính đến lúc chạy báo cáo) |
+
 > ⚠️ **Lưu ý quan trọng:** tuần này còn **2 ngày chưa chốt xong** — Thứ Bảy 03/10 có file DMO nhưng **0/18 việc đã tick** (bảng trống hoàn toàn), và Chủ Nhật 04/10 (hôm nay) **chưa có file DMO nào được tạo**. Vì vậy con số "6 ngày / 54%" của tuần này **thấp hơn thực tế** nếu anh Đức chưa kịp chốt cuối ngày 03–04/10 — báo cáo này chạy trước khi tuần khép lại trọn vẹn.
 
 ## 2. Nhận định: bộ não tiến hoá thế nào so với tuần trước?
