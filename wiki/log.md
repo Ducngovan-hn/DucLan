@@ -318,3 +318,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-10-02] ingest | footage xuong 02/10 (3 anh: dong kien, don Vuong 100 bo)
 
 ## [2026-10-03] ingest | footage xuong 03/10 (5 anh: mau bo ke, bang mau, don moi Ms336 a Nghia 300 bo)
+
+## [2026-10-05] ingest | footage xuong 05/10 (1 anh: kien bo dong tui)

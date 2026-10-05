@@ -146,6 +146,7 @@ tags:
 - [[footage-xuong-2026-10-01]] — 01/10: 1 kiện bo đóng gói theo đơn.
 - [[footage-xuong-2026-10-02]] — 02/10: đóng kiện giao hàng, đơn Vương 100 bộ (cổ-kẻ 80 bộ).
 - [[footage-xuong-2026-10-03]] — 03/10: mẫu bo kẻ, bảng màu, đơn mới Ms336 (a Nghĩa, tím than kẻ 300 bộ).
+- [[footage-xuong-2026-10-05]] — 05/10: 1 kiện bo đóng túi theo đơn.
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
