@@ -320,3 +320,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-10-03] ingest | footage xuong 03/10 (5 anh: mau bo ke, bang mau, don moi Ms336 a Nghia 300 bo)
 
 ## [2026-10-05] ingest | footage xuong 05/10 (1 anh: kien bo dong tui)
+
+## [2026-10-06] ingest | footage xuong 06/10 (3 kien bo: navy ke trang, xanh la ke 530 bo)
