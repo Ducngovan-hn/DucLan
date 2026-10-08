@@ -149,6 +149,7 @@ tags:
 - [[footage-xuong-2026-10-05]] — 05/10: 1 kiện bo đóng túi theo đơn.
 - [[footage-xuong-2026-10-06]] — 06/10: 3 kiện bo (navy kẻ trắng; xanh lá kẻ 530 bộ Sz38/39).
 - [[footage-xuong-2026-10-07]] — 07/10: 1 kiện bo cam đóng túi theo đơn.
+- [[footage-xuong-2026-10-08]] — 08/10: cân bao hàng trong xưởng.
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.

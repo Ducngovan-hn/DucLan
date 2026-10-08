@@ -324,3 +324,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-10-06] ingest | footage xuong 06/10 (3 kien bo: navy ke trang, xanh la ke 530 bo)
 
 ## [2026-10-07] ingest | footage xuong 07/10 (1 kien bo cam 90)
+
+## [2026-10-08] ingest | footage xuong 08/10 (1 anh: can bao hang)
