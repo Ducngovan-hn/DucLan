@@ -88,6 +88,16 @@ Chia 6 lọ tính 55/10/10/10/10/5 (tiền = 0 thì mọi lọ = 0). Nguồn thi
 (Template `_MAU-DMO.md` đã có sẵn 2 dòng checkbox "Có tiền thực nhận" + "Có chia tiền vào 6 lọ" ngay dưới
 bảng (1) và (2) — điền số & tick khi > 0.)
 
+**🚨 EXCEL CHƯA CÓ DÒNG NGÀY ĐÓ → HỎI, ĐỪNG TỰ KẾT LUẬN 0đ (đã sót nhiều lần):** anh Đức thường
+nhập Excel 6 lọ **MUỘN HƠN** lúc chốt DMO (có khi sau vài ngày). Vì vậy khi đọc `Mo-hinh-6-cai-lo.xlsx`
+mà KHÔNG thấy dòng tiền về của ngày đang chốt:
+- **ĐỪNG mặc định "0đ không có tiền"** rồi để `[ ]`. Phải **đọc tới dòng dữ liệu CUỐI CÙNG** (iterate hết
+  sheet, lọc theo tháng/ngày; soi bẫy đảo dd↔mm như `2026-10-09` vs `2026-09-10`).
+- Nếu vẫn không có → ghi tạm "chờ anh xác nhận Excel" và **CHỦ ĐỘNG HỎI anh ngay trong lần chốt đó**:
+  "ngày X Excel chưa có dòng tiền — anh nhập chưa hay thực sự không có tiền?". Chỉ ghi 0đ khi anh xác nhận.
+- Khi anh báo "có rồi / check lại 6 lọ" → đọc lại Excel, cập nhật bảng tiền + 6 lọ + tick 2 dòng + `bao-cao --cap-nhat`.
+- **Đã sót 9/10 (c Ngọc 8tr), 10/10 (cô Hoa 4,87tr)** và trước đó 17/9, 21/9, 24/9, 7/10 — không được lặp lại.
+
 ### Tick việc 1 — chạy bộ
 Số km · thời gian lấy từ **footage my-life (mục 5)**, không hỏi nếu tự lấy được.
 
