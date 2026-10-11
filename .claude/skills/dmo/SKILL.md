@@ -189,6 +189,12 @@ Sau khi tự lấy, luôn báo lại số cho anh Đức khi ghi vào DMO (minh 
 3. **ĐỐI CHIẾU CHÉO BẢNG TAY** anh Đức: nếu mục "Trả hàng" bảng tay tích ✓ nhiều tên hơn công cụ đếm
    → dump chưa đủ (chạy lại `zalo_dump.mjs` với --until sớm hơn) rồi đếm lại. Số phải khớp mới chốt.
 4. Một khách có thể có >1 đơn/ngày (công cụ tự gộp theo tên khi đếm "số khách", vẫn liệt kê đủ từng đơn).
+5. **🚨 DUMP ÍT NHẤT 5 LẦN, lưu mỗi lần ra .md (chỉ thị anh Đức 11/10):** lần dump đầu Zalo PC thường vừa
+   khởi động lại, **chưa kịp tải tin mới nhất (hôm nay)** về → dump thiếu. **KHÔNG được xem 1–2 lần rồi chốt
+   "ngày X không có đơn / 0 khách".** Phải dump **≥5 lần** (chờ vài giây giữa các lần), và sau mỗi lần **kiểm
+   dòng CUỐI file**: tin mới nhất phải đúng là ngày đang chốt (chốt 11/10 thì tin cuối phải có "11/10"). Tin cuối
+   còn cũ hơn → Zalo chưa load, dump lại. Chỉ chốt 0 khi đã ≥5 lần mà tin cuối đúng ngày và thật sự không có tên.
+   **Đã sót 11/10:** 2 lần đầu ra tin cuối chỉ tới 8/10, suýt chốt 0 khách — thực tế 11/10 có 3 khách (26,16tr).
 
 **⚠️ 2 BẪY SÓT SỐ (đã mắc 03/09 — luôn phòng):**
 - **Excel cột ngày lưu nhầm:** anh Đức gõ "3/9" nhưng Excel lưu thành `2026-03-09` (đảo dd↔mm).
