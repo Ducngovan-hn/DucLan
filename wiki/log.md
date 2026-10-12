@@ -331,3 +331,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-10-10] ingest | footage xuong 10/10 (1 kien bo do do 200 bo)
 
 ## [2026-10-11] ingest | footage xuong 11/10 (4 anh: dong kien, can, giao nhieu don)
+
+## [2026-10-12] ingest | footage xuong 12/10 (6 anh: gom nhieu don, dong kien+bao)
