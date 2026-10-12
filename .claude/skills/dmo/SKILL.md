@@ -88,15 +88,14 @@ Chia 6 lọ tính 55/10/10/10/10/5 (tiền = 0 thì mọi lọ = 0). Nguồn thi
 (Template `_MAU-DMO.md` đã có sẵn 2 dòng checkbox "Có tiền thực nhận" + "Có chia tiền vào 6 lọ" ngay dưới
 bảng (1) và (2) — điền số & tick khi > 0.)
 
-**🚨 EXCEL CHƯA CÓ DÒNG NGÀY ĐÓ → HỎI, ĐỪNG TỰ KẾT LUẬN 0đ (đã sót nhiều lần):** anh Đức thường
-nhập Excel 6 lọ **MUỘN HƠN** lúc chốt DMO (có khi sau vài ngày). Vì vậy khi đọc `Mo-hinh-6-cai-lo.xlsx`
-mà KHÔNG thấy dòng tiền về của ngày đang chốt:
-- **ĐỪNG mặc định "0đ không có tiền"** rồi để `[ ]`. Phải **đọc tới dòng dữ liệu CUỐI CÙNG** (iterate hết
-  sheet, lọc theo tháng/ngày; soi bẫy đảo dd↔mm như `2026-10-09` vs `2026-09-10`).
-- Nếu vẫn không có → ghi tạm "chờ anh xác nhận Excel" và **CHỦ ĐỘNG HỎI anh ngay trong lần chốt đó**:
-  "ngày X Excel chưa có dòng tiền — anh nhập chưa hay thực sự không có tiền?". Chỉ ghi 0đ khi anh xác nhận.
-- Khi anh báo "có rồi / check lại 6 lọ" → đọc lại Excel, cập nhật bảng tiền + 6 lọ + tick 2 dòng + `bao-cao --cap-nhat`.
-- **Đã sót 9/10 (c Ngọc 8tr), 10/10 (cô Hoa 4,87tr)** và trước đó 17/9, 21/9, 24/9, 7/10 — không được lặp lại.
+**🚨 EXCEL KHÔNG CÓ DÒNG NGÀY ĐÓ → GHI 0đ LUÔN, KHÔNG HỎI (chỉ thị anh Đức 12/10):** khi đọc
+`Mo-hinh-6-cai-lo.xlsx` mà KHÔNG thấy dòng tiền về của ngày đang chốt:
+- **Đọc tới dòng dữ liệu CUỐI CÙNG** (iterate hết sheet, lọc theo tháng/ngày; soi bẫy đảo dd↔mm như
+  `2026-10-09` vs `2026-09-10`, hay 11/10 từng bị lưu `2026-11-11`).
+- Đúng không có dòng ngày đang chốt → **ghi thẳng 0đ (không có tiền về), KHÔNG hỏi anh.** Quy tắc số 0:
+  để `[ ]` 2 dòng tiền, ghi rõ "Excel không có dòng <ngày> → không có tiền về". KHÔNG để "⏳ chờ".
+- Nếu anh nhập Excel muộn hơn, anh sẽ chủ động báo **"check lại 6 lọ / có rồi"** → lúc đó đọc lại Excel,
+  cập nhật bảng tiền + 6 lọ + tick 2 dòng + `bao-cao --cap-nhat`. (Đã làm vậy cho 9/10, 10/10.)
 
 ### Tick việc 1 — chạy bộ
 Số km · thời gian lấy từ **footage my-life (mục 5)**, không hỏi nếu tự lấy được.
@@ -189,12 +188,12 @@ Sau khi tự lấy, luôn báo lại số cho anh Đức khi ghi vào DMO (minh 
 3. **ĐỐI CHIẾU CHÉO BẢNG TAY** anh Đức: nếu mục "Trả hàng" bảng tay tích ✓ nhiều tên hơn công cụ đếm
    → dump chưa đủ (chạy lại `zalo_dump.mjs` với --until sớm hơn) rồi đếm lại. Số phải khớp mới chốt.
 4. Một khách có thể có >1 đơn/ngày (công cụ tự gộp theo tên khi đếm "số khách", vẫn liệt kê đủ từng đơn).
-5. **🚨 DUMP ĐẾN KHI RA, TỐI ĐA 5 LẦN KHÔNG RA THÌ HỎI ANH (chỉ thị anh Đức 11/10):** lần dump đầu Zalo PC
+5. **🚨 DUMP TỐI ĐA 5 LẦN, KHÔNG THẤY THÌ GHI "KHÔNG CÓ" (chỉ thị anh Đức 11–12/10):** lần dump đầu Zalo PC
    thường vừa khởi động lại, **chưa kịp tải tin mới nhất (hôm nay)** về → dump thiếu. **KHÔNG được xem 1–2 lần
-   rồi chốt "ngày X không có đơn / 0 khách".** Sau mỗi lần dump, **kiểm dòng CUỐI file**: tin mới nhất phải đúng
-   là ngày đang chốt (chốt 11/10 thì tin cuối có "11/10"). **RA rồi → dừng, đếm, chốt. Chưa ra → dump tiếp**
-   (chờ vài giây cho Zalo load). **Dump tối đa 5 lần vẫn chưa ra → HỎI anh** (Zalo chưa tải được, anh kiểm giúp),
-   KHÔNG tự chốt 0. Không phải dump cứng 5 lần — 5 chỉ là trần, ra sớm thì dừng sớm.
+   rồi chốt "0 khách".** Sau mỗi lần dump, **kiểm dòng CUỐI file**: tin mới nhất phải đúng là ngày đang chốt
+   (chốt 11/10 thì tin cuối có "11/10"). **RA rồi → dừng ngay, đếm, chốt. Chưa ra → dump tiếp** (chờ vài giây).
+   **Dump TỐI ĐA 5 LẦN** (ra sớm thì dừng sớm, không cần đủ 5). **Sau 5 lần vẫn không thấy → GHI "KHÔNG CÓ"
+   (0 khách), KHÔNG hỏi anh** (nếu thực ra có, anh sẽ báo "check lại" sau).
    **Đã sót 11/10:** 2 lần đầu ra tin cuối chỉ tới 8/10, suýt chốt 0 khách — thực tế 11/10 có 3 khách (26,16tr).
 
 **⚠️ 2 BẪY SÓT SỐ (đã mắc 03/09 — luôn phòng):**
