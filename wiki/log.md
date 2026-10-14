@@ -335,3 +335,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-10-12] ingest | footage xuong 12/10 (6 anh: gom nhieu don, dong kien+bao)
 
 ## [2026-10-13] ingest | footage xuong 13/10 (4 anh: mau bo phoi vien + may det)
+
+## [2026-10-14] ingest | footage xuong 14/10 (6 anh+1 video: dong bao, can, giao hang lon)
