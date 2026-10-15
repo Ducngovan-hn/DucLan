@@ -156,6 +156,7 @@ tags:
 - [[footage-xuong-2026-10-12]] — 12/10: gom nhiều đơn, đóng kiện+bao (trơn đỏ/kẻ bích 100, kẻ 150 bộ).
 - [[footage-xuong-2026-10-13]] — 13/10: mẫu bo phối viền (be/xanh lá) + máy dệt.
 - [[footage-xuong-2026-10-14]] — 14/10: đóng bao, cân, giao hàng lớn (kẻ cam-đỏ 530 bộ).
+- [[footage-xuong-2026-10-15]] — 15/10: 2 kiện bo kẻ (đỏ-trắng, cam) đóng gói.
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
