@@ -157,6 +157,7 @@ tags:
 - [[footage-xuong-2026-10-13]] — 13/10: mẫu bo phối viền (be/xanh lá) + máy dệt.
 - [[footage-xuong-2026-10-14]] — 14/10: đóng bao, cân, giao hàng lớn (kẻ cam-đỏ 530 bộ).
 - [[footage-xuong-2026-10-15]] — 15/10: 2 kiện bo kẻ (đỏ-trắng, cam) đóng gói.
+- [[footage-xuong-2026-10-16]] — 16/10: cân, đóng bao, giao hàng (đơn Cô Tuấn Huyền; Đen 150 Đỏ 50).
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
