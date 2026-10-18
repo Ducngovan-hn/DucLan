@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mind map Danh từ & Hạn định từ</title>
+<style>
+  html, body { margin: 0; height: 100%; overflow: hidden; background: #fff; }
+  #mm { display: block; width: 100%; height: 100%; }
+</style>
+</head>
+<body>
+<svg id="mm"></svg>
+<script type="text/template" id="md">
+---
+markmap:
+  colorFreezeLevel: 2
+  maxWidth: 260
+  spacingVertical: 8
+  initialExpandLevel: 3
+---
+
+# Danh từ & Hạn định từ
+
+## ① Nhận ra danh từ
+### Là gì?
+- Chỉ người, vật, con vật, nơi chốn, hiện tượng, khái niệm
+- Susie · house · book · USB · coffee
+### Vị trí trong câu
+- Chủ ngữ: **Lisa** is…
+- Tân ngữ của động từ: I meet **Lisa**
+- Tân ngữ của giới từ
+- Thường đứng **sau** a / the / his / many…
+### Đuôi danh từ
+- Chỉ sự việc
+  - -tion, -sion: decision, attention
+  - -ment: management
+  - -ness: happiness, kindness
+  - -ity, -ty: security, safety
+  - -ance, -ence: importance, difference
+  - -ship, -hood: leadership, neighborhood
+  - -ism, -asm: criticism, enthusiasm
+  - -age, -ure, -ry: luggage, furniture, delivery
+- Chỉ người
+  - -er, -or, -ist: teacher, director, artist
+  - -ant, -ee: assistant, employee
+### Bẫy: trông như tính từ
+- -ive: executive, incentive, representative
+- -al: arrival, proposal, approval, physical
+- -ant, -ent: applicant, patient, resident
+
+## ② Đếm được hay không? (U/C)
+### C số ít
+- a book → động từ chia **is**
+- Bắt buộc có từ đứng trước
+- Đi với: a/an · each · every · another · this · that
+- Each person needs a ticket.
+### C số nhiều
+- three book**s** → chia **are**
+- Đi với: few · a few · many · several · these · those
+- A few employees work on the weekends.
+### U — Không đếm được
+- advice · information · furniture · luggage · money · safety
+- ✗ Không a/an — ✗ Không thêm -s
+- Động từ chia số ít: is / has
+- Đi với: little · a little · much
+- There is little information available.
+### Đi cả số nhiều + U
+- some · most · all
+- Most advice **is** useful
+- Most stories **are** interesting
+- + of the: Most **of the** advice is… (nhóm cụ thể)
+### Đi cả 3 loại
+- the
+- my · your · his · her · its · our · their
+### Cặp hay nhầm
+- few / little = rất ít, gần như không (ý chê)
+- a few / a little = một vài, một chút (đủ dùng)
+- few ↔ số nhiều · little ↔ U
+
+## ③ Hạn định từ (đứng trước danh từ)
+### Mạo từ
+- a, an, the
+- She bought **a** card for her friend.
+### Chỉ định từ
+- this / that + số ít
+- these / those + số nhiều
+- **This** cell phone was made in Korea.
+### Tính từ sở hữu
+- my, your, his, her, its, our, their
+- James submitted **his** report.
+### Từ định lượng
+- Chi tiết đi với loại nào → xem nhánh ②
+
+## ④ Người hay sự việc?
+### apply
+- Người: applicant
+- Việc: application
+### consult
+- Người: consultant
+- Việc: consultation
+### instruct
+- Người: instructor
+- Việc: instruction
+### participate
+- Người: participant
+- Việc: participation
+### assist
+- Người: assistant
+- Việc: assistance
+### employ
+- Người: employer (chủ) · employee (nhân viên)
+- Việc: employment
+### invest
+- Người: investor
+- Việc: investment
+### supervise
+- Người: supervisor
+- Việc: supervision
+### Mẹo
+- Người luôn đếm được: **an** applicant / applicant**s**
+
+## Mẹo làm bài 3 giây
+- Nhìn từ đứng **trước** chỗ trống
+- a / each / every / another → N số ít
+- many / several / few → N số nhiều
+- much / little → N không đếm được
+- Đáp án advice**s**, information**s** → loại ngay
+</script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/markmap-view@0.18.12/dist/browser/index.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/markmap-lib@0.18.12/dist/browser/index.iife.js"></script>
+<script>
+  const { Transformer, Markmap, deriveOptions } = window.markmap;
+  const t = new Transformer();
+  const { root, frontmatter } = t.transform(document.getElementById('md').textContent);
+  const mm = Markmap.create('#mm', deriveOptions(frontmatter && frontmatter.markmap), root);
+  setTimeout(() => mm.fit(), 300);
+  window.addEventListener('resize', () => mm.fit());
+</script>
+</body>
+</html>
