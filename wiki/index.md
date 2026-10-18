@@ -159,6 +159,7 @@ tags:
 - [[footage-xuong-2026-10-15]] — 15/10: 2 kiện bo kẻ (đỏ-trắng, cam) đóng gói.
 - [[footage-xuong-2026-10-16]] — 16/10: cân, đóng bao, giao hàng (đơn Cô Tuấn Huyền; Đen 150 Đỏ 50).
 - [[footage-xuong-2026-10-17]] — 17/10: kiện bo (xanh lá 220 bộ) + mẫu bo nhiều màu.
+- [[footage-xuong-2026-10-18]] — 18/10: mẫu bo xanh lá viền trắng.
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
