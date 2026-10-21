@@ -111,6 +111,10 @@ Số km · thời gian lấy từ **footage my-life (mục 5)**, không hỏi n�
   rồi tick luôn dòng này, KHÔNG hỏi** (chỉ thị 04/09: anh Đức tự tạo DMO của mình, không cần báo em cập nhật).
 - **Quay video** (trong việc 3 "Viết content + quay video") → kiểm **footage xưởng** ngày đó;
   có clip quay → tick.
+- **🚨 Việc anh GẠCH BỎ / ghi "không … nữa" → XÓA HẲN dòng đó khỏi DMO (chỉ thị anh Đức 21/10).**
+  Trên bảng tay nếu anh gạch ngang một việc và ghi "không sang nữa / không đi nữa / bỏ" → **xóa luôn dòng việc
+  đó**, KHÔNG để lại dòng `~~gạch~~ (hủy)` nhắc đi nhắc lại qua các ngày. (Anh Đức: "cứ nhắc lại làm gì".)
+  Cũng KHÔNG chuyển việc đã hủy sang DMO hôm sau. Việc đã LÀM thật (tick ✓) thì giữ nguyên.
 
 ### Báo cáo tiến độ
 Chạy `dmo.py bao-cao --ngay <ngày> --cap-nhat` — **luôn kèm `--cap-nhat`** để dòng `**TIẾN ĐỘ: n/N · P%**`
