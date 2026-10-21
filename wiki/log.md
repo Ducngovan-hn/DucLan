@@ -347,3 +347,6 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-10-18] ingest | footage xuong 18/10 (1 mau bo xanh la vien trang)
 
 ## [2026-10-19] ingest | footage xuong 19/10 (4 anh: soi do/hong, mau bo, kien+bao) + bo sung kien bo 18/10
+
+## [2026-10-20] ingest | footage xuong 20/10 (1 kien bo 600 co)
+## [2026-10-21] ingest | footage xuong 21/10 (32 anh: can + giao hang lon, mau bo, nha xe Van Anh)

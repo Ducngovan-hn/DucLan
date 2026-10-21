@@ -161,6 +161,8 @@ tags:
 - [[footage-xuong-2026-10-17]] — 17/10: kiện bo (xanh lá 220 bộ) + mẫu bo nhiều màu.
 - [[footage-xuong-2026-10-18]] — 18/10: mẫu bo xanh lá viền trắng + kiện bo navy-cam 1000 dây.
 - [[footage-xuong-2026-10-19]] — 19/10: sợi đỏ/hồng, mẫu bo, kiện+bao thành phẩm.
+- [[footage-xuong-2026-10-20]] — 20/10: 1 kiện bo navy 600 cổ.
+- [[footage-xuong-2026-10-21]] — 21/10: cân + giao hàng lớn (nhiều mẫu bo, gửi nhà xe Văn Anh).
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
