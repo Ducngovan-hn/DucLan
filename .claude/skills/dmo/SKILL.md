@@ -115,6 +115,11 @@ Số km · thời gian lấy từ **footage my-life (mục 5)**, không hỏi n�
   Trên bảng tay nếu anh gạch ngang một việc và ghi "không sang nữa / không đi nữa / bỏ" → **xóa luôn dòng việc
   đó**, KHÔNG để lại dòng `~~gạch~~ (hủy)` nhắc đi nhắc lại qua các ngày. (Anh Đức: "cứ nhắc lại làm gì".)
   Cũng KHÔNG chuyển việc đã hủy sang DMO hôm sau. Việc đã LÀM thật (tick ✓) thì giữ nguyên.
+- **🚨 4 mục HỌC của nếp ngày (mục II) KHÔNG đưa vào VIỆC CÒN TỒN (chỉ thị anh Đức 24/10).** Bốn mục
+  **Tiếng Trung · LTTTL · Đọc/nghe sách · Học tạo video (học youtube)** vốn đã có sẵn trong **mục II mỗi ngày** —
+  nếu hôm trước chưa tick, **KHÔNG kéo chúng xuống khối "⏮️ VIỆC CÒN TỒN" ngày hôm sau** (bị trùng). `dmo.py tao`
+  có thể tự lôi mục II chưa tick vào việc tồn → sau khi tạo DMO, **xóa các dòng học đó khỏi khối việc tồn**,
+  giữ chúng ở mục II. (Anh Đức: "học tạo video ở phần II rồi, không cho vào việc tồn, đừng nhắc lại.")
 
 ### Báo cáo tiến độ
 Chạy `dmo.py bao-cao --ngay <ngày> --cap-nhat` — **luôn kèm `--cap-nhat`** để dòng `**TIẾN ĐỘ: n/N · P%**`
