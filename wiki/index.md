@@ -165,6 +165,7 @@ tags:
 - [[footage-xuong-2026-10-21]] — 21/10: cân + giao hàng lớn (nhiều mẫu bo, gửi nhà xe Văn Anh).
 - [[footage-xuong-2026-10-22]] — 22/10: đơn mới Cty May Bonita, phiếu xuất kho, sổ công nợ, máy dệt.
 - [[footage-xuong-2026-10-23]] — 23/10: kiện bo thành phẩm nhiều màu (đơn xám 350 bộ).
+- [[footage-xuong-2026-10-26]] — 26/10: kiện bo + đơn mới Ms393 (bo áo khoác đỏ kẻ, 250 cái).
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.

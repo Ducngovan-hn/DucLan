@@ -353,3 +353,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 
 ## [2026-10-22] ingest | footage xuong 22/10 (don moi Cty May Bonita, phieu xuat kho, so cong no, may det)
 ## [2026-10-23] ingest | footage xuong 23/10 (6 kien bo thanh pham, don xam 350 bo)
+
+## [2026-10-26] ingest | footage xuong 26/10 (kien bo + don moi Ms393 ao khoac do ke 250 cai)
