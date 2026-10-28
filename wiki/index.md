@@ -166,6 +166,7 @@ tags:
 - [[footage-xuong-2026-10-22]] — 22/10: đơn mới Cty May Bonita, phiếu xuất kho, sổ công nợ, máy dệt.
 - [[footage-xuong-2026-10-23]] — 23/10: kiện bo thành phẩm nhiều màu (đơn xám 350 bộ).
 - [[footage-xuong-2026-10-26]] — 26/10: kiện bo + đơn mới Ms393 (bo áo khoác đỏ kẻ, 250 cái).
+- [[footage-xuong-2026-10-28]] — 28/10: kiện bo thành phẩm (cam kẻ, navy neon, đỏ đô).
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.

@@ -355,3 +355,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-10-23] ingest | footage xuong 23/10 (6 kien bo thanh pham, don xam 350 bo)
 
 ## [2026-10-26] ingest | footage xuong 26/10 (kien bo + don moi Ms393 ao khoac do ke 250 cai)
+
+## [2026-10-28] ingest | footage xuong 28/10 (4 kien bo thanh pham: cam ke, navy neon, do do)
