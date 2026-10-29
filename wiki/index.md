@@ -167,6 +167,7 @@ tags:
 - [[footage-xuong-2026-10-23]] — 23/10: kiện bo thành phẩm nhiều màu (đơn xám 350 bộ).
 - [[footage-xuong-2026-10-26]] — 26/10: kiện bo + đơn mới Ms393 (bo áo khoác đỏ kẻ, 250 cái).
 - [[footage-xuong-2026-10-28]] — 28/10: kiện bo thành phẩm (cam kẻ, navy neon, đỏ đô).
+- [[footage-xuong-2026-10-29]] — 29/10: kiện bo navy kẻ + xanh lá + cam.
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
