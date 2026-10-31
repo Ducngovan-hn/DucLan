@@ -169,6 +169,7 @@ tags:
 - [[footage-xuong-2026-10-28]] — 28/10: kiện bo thành phẩm (cam kẻ, navy neon, đỏ đô).
 - [[footage-xuong-2026-10-29]] — 29/10: kiện bo navy kẻ + xanh lá + cam.
 - [[footage-xuong-2026-10-30]] — 30/10: bo xanh dương đóng gói.
+- [[footage-xuong-2026-10-31]] — 31/10: mẫu bo xám + kiện bo đỏ-trắng (Sz34/36 × 500).
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
