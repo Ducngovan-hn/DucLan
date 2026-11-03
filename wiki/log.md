@@ -365,3 +365,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-10-31] ingest | footage xuong 31/10 (mau bo xam + kien bo do-trang Sz34/36 x500)
 
 ## [2026-11-02] ingest | footage xuong 02/11 (4 anh: kien bo nhieu mau + mau bo)
+
+## [2026-11-03] ingest | footage xuong 03/11 (2 kien bo: tim than 500, cam 115, trang 50 co)

@@ -171,6 +171,7 @@ tags:
 - [[footage-xuong-2026-10-30]] — 30/10: bo xanh dương đóng gói.
 - [[footage-xuong-2026-10-31]] — 31/10: mẫu bo xám + kiện bo đỏ-trắng (Sz34/36 × 500).
 - [[footage-xuong-2026-11-02]] — 02/11: kiện bo nhiều màu (xanh/trắng, vàng-đỏ 115, đỏ 580) + mẫu bo.
+- [[footage-xuong-2026-11-03]] — 03/11: kiện bo (tím than 500, cam 115, trắng 50 cổ).
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
