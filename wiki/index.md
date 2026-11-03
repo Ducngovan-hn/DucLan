@@ -163,6 +163,14 @@ tags:
 - [[footage-xuong-2026-10-19]] — 19/10: sợi đỏ/hồng, mẫu bo, kiện+bao thành phẩm.
 - [[footage-xuong-2026-10-20]] — 20/10: 1 kiện bo navy 600 cổ.
 - [[footage-xuong-2026-10-21]] — 21/10: cân + giao hàng lớn (nhiều mẫu bo, gửi nhà xe Văn Anh).
+- [[footage-xuong-2026-10-22]] — 22/10: đơn mới Cty May Bonita, phiếu xuất kho, sổ công nợ, máy dệt.
+- [[footage-xuong-2026-10-23]] — 23/10: kiện bo thành phẩm nhiều màu (đơn xám 350 bộ).
+- [[footage-xuong-2026-10-26]] — 26/10: kiện bo + đơn mới Ms393 (bo áo khoác đỏ kẻ, 250 cái).
+- [[footage-xuong-2026-10-28]] — 28/10: kiện bo thành phẩm (cam kẻ, navy neon, đỏ đô).
+- [[footage-xuong-2026-10-29]] — 29/10: kiện bo navy kẻ + xanh lá + cam.
+- [[footage-xuong-2026-10-30]] — 30/10: bo xanh dương đóng gói.
+- [[footage-xuong-2026-10-31]] — 31/10: mẫu bo xám + kiện bo đỏ-trắng (Sz34/36 × 500).
+- [[footage-xuong-2026-11-02]] — 02/11: kiện bo nhiều màu (xanh/trắng, vàng-đỏ 115, đỏ 580) + mẫu bo.
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.

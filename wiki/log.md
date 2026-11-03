@@ -350,3 +350,18 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 
 ## [2026-10-20] ingest | footage xuong 20/10 (1 kien bo 600 co)
 ## [2026-10-21] ingest | footage xuong 21/10 (32 anh: can + giao hang lon, mau bo, nha xe Van Anh)
+
+## [2026-10-22] ingest | footage xuong 22/10 (don moi Cty May Bonita, phieu xuat kho, so cong no, may det)
+## [2026-10-23] ingest | footage xuong 23/10 (6 kien bo thanh pham, don xam 350 bo)
+
+## [2026-10-26] ingest | footage xuong 26/10 (kien bo + don moi Ms393 ao khoac do ke 250 cai)
+
+## [2026-10-28] ingest | footage xuong 28/10 (4 kien bo thanh pham: cam ke, navy neon, do do)
+
+## [2026-10-29] ingest | footage xuong 29/10 (1 kien bo navy ke + xanh la + cam)
+
+## [2026-10-30] ingest | footage xuong 30/10 (1 bo xanh duong dong goi)
+
+## [2026-10-31] ingest | footage xuong 31/10 (mau bo xam + kien bo do-trang Sz34/36 x500)
+
+## [2026-11-02] ingest | footage xuong 02/11 (4 anh: kien bo nhieu mau + mau bo)
