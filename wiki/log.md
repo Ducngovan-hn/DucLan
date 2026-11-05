@@ -369,3 +369,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-11-03] ingest | footage xuong 03/11 (2 kien bo: tim than 500, cam 115, trang 50 co)
 
 ## [2026-11-04] ingest | footage xuong 04/11 (1 chong kien bo hong/xam/do)
+
+## [2026-11-05] ingest | footage xuong 05/11 (6 anh): bang dat ao + duyet mau mau; kien bo trang ke/navy ke/xanh duong/xanh ngoc (can thanh pham)
