@@ -371,3 +371,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-11-04] ingest | footage xuong 04/11 (1 chong kien bo hong/xam/do)
 
 ## [2026-11-05] ingest | footage xuong 05/11 (6 anh): bang dat ao + duyet mau mau; kien bo trang ke/navy ke/xanh duong/xanh ngoc (can thanh pham)
+
+## [2026-11-06] ingest | footage xuong 06/11 (4 anh): may det chay + mau cam/navy + kien bo den T10; ghi nhan tien dien T10 12.751.401d
