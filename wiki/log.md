@@ -373,3 +373,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-11-05] ingest | footage xuong 05/11 (6 anh): bang dat ao + duyet mau mau; kien bo trang ke/navy ke/xanh duong/xanh ngoc (can thanh pham)
 
 ## [2026-11-06] ingest | footage xuong 06/11 (4 anh): may det chay + mau cam/navy + kien bo den T10; ghi nhan tien dien T10 12.751.401d
+
+## [2026-11-15] ingest | footage xuong 08-12/11 (5 ngay, 44 anh): may det + soi + nhieu don dong kien (500 co, 500 bo, 100 bo, 150 bo), don C Hiep 100 doi bo tay, giao hang Green Van; chi phi XBO T10 (11,44tr + 8,418tr) + khoan gieng 1tr

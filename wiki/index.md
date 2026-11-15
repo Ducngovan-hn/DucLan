@@ -175,6 +175,11 @@ tags:
 - [[footage-xuong-2026-11-04]] — 04/11: chồng kiện bo hồng/xám/đỏ đóng gói.
 - [[footage-xuong-2026-11-05]] — 05/11: bảng đặt áo + duyệt mẫu màu; kiện bo trắng kẻ/navy kẻ/xanh dương/xanh ngọc (cân).
 - [[footage-xuong-2026-11-06]] — 06/11: máy dệt chạy (sợi cam) + mẫu cam/navy + kiện bo đen "T10"; tiền điện T10 12,75tr.
+- [[footage-xuong-2026-11-08]] — 08/11: máy dệt vận hành + máy cuốn sợi.
+- [[footage-xuong-2026-11-09]] — 09/11: chuỗi sợi → máy dệt → bo thành phẩm (đen 500 cổ, hồng, navy kẻ).
+- [[footage-xuong-2026-11-10]] — 10/11: gom nhiều đơn (500 cổ, 500 bộ, 100 bộ), cân + đóng kiện; đơn C Hiệp 100 đôi bo tay; thanh toán XBO T10.
+- [[footage-xuong-2026-11-11]] — 11/11: đóng kiện lớn + giao hàng Green Van (203k); đơn 150 bộ.
+- [[footage-xuong-2026-11-12]] — 12/11: kiện bo đỏ/xanh/cam đóng gói.
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
