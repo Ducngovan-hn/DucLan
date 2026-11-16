@@ -180,6 +180,7 @@ tags:
 - [[footage-xuong-2026-11-10]] — 10/11: gom nhiều đơn (500 cổ, 500 bộ, 100 bộ), cân + đóng kiện; đơn C Hiệp 100 đôi bo tay; thanh toán XBO T10.
 - [[footage-xuong-2026-11-11]] — 11/11: đóng kiện lớn + giao hàng Green Van (203k); đơn 150 bộ.
 - [[footage-xuong-2026-11-12]] — 12/11: kiện bo đỏ/xanh/cam đóng gói.
+- [[footage-xuong-2026-11-16]] — 16/11: mẫu đỏ + kiện navy kẻ (đơn 500) + cam + đỏ (Đẩy 110); trang sổ doanh thu/công nợ.
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
