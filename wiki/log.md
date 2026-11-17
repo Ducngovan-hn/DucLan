@@ -377,3 +377,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-11-15] ingest | footage xuong 08-12/11 (5 ngay, 44 anh): may det + soi + nhieu don dong kien (500 co, 500 bo, 100 bo, 150 bo), don C Hiep 100 doi bo tay, giao hang Green Van; chi phi XBO T10 (11,44tr + 8,418tr) + khoan gieng 1tr
 
 ## [2026-11-16] ingest | footage xuong 16/11 (5 anh): mau do + kien navy ke (don 500 S256:100 S234:200) + cam + do (Day 110/Do 100); trang so doanh thu-cong no
+
+## [2026-11-17] ingest | footage xuong 17/11 (7 anh): may det van hanh + kho kien bo navy/den/do + don 40 doi bo; giao hang len xe tai

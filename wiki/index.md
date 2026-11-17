@@ -181,6 +181,7 @@ tags:
 - [[footage-xuong-2026-11-11]] — 11/11: đóng kiện lớn + giao hàng Green Van (203k); đơn 150 bộ.
 - [[footage-xuong-2026-11-12]] — 12/11: kiện bo đỏ/xanh/cam đóng gói.
 - [[footage-xuong-2026-11-16]] — 16/11: mẫu đỏ + kiện navy kẻ (đơn 500) + cam + đỏ (Đẩy 110); trang sổ doanh thu/công nợ.
+- [[footage-xuong-2026-11-17]] — 17/11: máy dệt vận hành + kho kiện bo navy/đen/đỏ + đơn 40 đôi bo; giao hàng lên xe tải.
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.
