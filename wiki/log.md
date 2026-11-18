@@ -379,3 +379,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-11-16] ingest | footage xuong 16/11 (5 anh): mau do + kien navy ke (don 500 S256:100 S234:200) + cam + do (Day 110/Do 100); trang so doanh thu-cong no
 
 ## [2026-11-17] ingest | footage xuong 17/11 (7 anh): may det van hanh + kho kien bo navy/den/do + don 40 doi bo; giao hang len xe tai
+
+## [2026-11-18] ingest | footage xuong 18/11 (3 anh): kien bo navy ke + xanh reu (don 90 bo, Cau 100/Co+tay 100)
