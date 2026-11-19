@@ -183,6 +183,7 @@ tags:
 - [[footage-xuong-2026-11-16]] — 16/11: mẫu đỏ + kiện navy kẻ (đơn 500) + cam + đỏ (Đẩy 110); trang sổ doanh thu/công nợ.
 - [[footage-xuong-2026-11-17]] — 17/11: máy dệt vận hành + kho kiện bo navy/đen/đỏ + đơn 40 đôi bo; giao hàng lên xe tải.
 - [[footage-xuong-2026-11-18]] — 18/11: kiện bo navy kẻ + xanh rêu (đơn 90 bộ, Cầu 100/Cổ+tay 100).
+- [[footage-xuong-2026-11-19]] — 19/11: chồng kiện bo đen/đỏ đóng gói chờ giao.
 
 ## So sánh
 > Bảng/trang đối chiếu hai hay nhiều thực thể/khái niệm. Nằm trong `wiki/so-sanh/`.

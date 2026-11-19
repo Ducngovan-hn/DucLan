@@ -381,3 +381,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-11-17] ingest | footage xuong 17/11 (7 anh): may det van hanh + kho kien bo navy/den/do + don 40 doi bo; giao hang len xe tai
 
 ## [2026-11-18] ingest | footage xuong 18/11 (3 anh): kien bo navy ke + xanh reu (don 90 bo, Cau 100/Co+tay 100)
+
+## [2026-11-19] ingest | footage xuong 19/11 (1 anh): chong kien bo den/do dong goi cho giao
