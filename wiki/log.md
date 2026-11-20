@@ -383,3 +383,5 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-11-18] ingest | footage xuong 18/11 (3 anh): kien bo navy ke + xanh reu (don 90 bo, Cau 100/Co+tay 100)
 
 ## [2026-11-19] ingest | footage xuong 19/11 (1 anh): chong kien bo den/do dong goi cho giao
+
+## [2026-11-20] ingest | footage xuong 20/11 (1 anh): chong kien bo den/do dong goi trong kho
