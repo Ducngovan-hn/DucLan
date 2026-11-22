@@ -385,3 +385,22 @@ Tổng tiền & tab LỢI NHUẬN tự cập nhật (đều là công thức); �
 ## [2026-11-19] ingest | footage xuong 19/11 (1 anh): chong kien bo den/do dong goi cho giao
 
 ## [2026-11-20] ingest | footage xuong 20/11 (1 anh): chong kien bo den/do dong goi trong kho
+
+## [2026-11-21] query | Tinh + ghi chi phi NVL (soi/nhuom/do) T8-T11/2026 vao Google Sheet CHI PHI
+
+Boc san luong khoi TRA HANG T8-T11 tu ban song Google Sheet (skill `chi-phi-nvl`), tinh gia von
+dinh muc (soi 42k + nhuom 23k + do 3k = 68k/kg). Quy uoc anh Duc chot: dong ghi "bo" = bo thuong
+(ke ca "ao khoac ... bo" cua hungt/huyen/luong); chi dong quy ra kg moi tinh theo kg thuc; dong co
+chu "Tong" dung so tong; ao khoac ghi "cai" (khach tuan) = gau 0,0985kg.
+
+San luong: T8 ~1.342,7kg | T9 ~1.350,6kg | T10 ~2.300kg (dot bien do don luong 671,6kg ngay 21/10)
+| T11 ~870,4kg (den 19/11). Chi phi NVL: T8 91,3tr | T9 91,8tr | T10 156,4tr | T11 59,2tr;
+TONG 4 thang ~398,7tr (soi 246,3tr + nhuom 134,9tr + do 17,6tr).
+
+Ghi de 12 o J4:M6 (So cung, am). T1-T8 von la so cung gia von dinh muc; T9-T11 TRUOC day la cong thuc
+SUMIFS keo tien THUC CHI -> nay doi thanh gia von dinh muc (nhat quan phuong phap, loi nhuan muot theo
+san luong). T8 cap nhat -27,2tr -> -56,4tr (truoc tinh thieu vi chua het thang). Backup cong thuc goc
+luu o scratchpad/backup_chiphi_soi_nhuom_do.txt. Loi nhuan sau ghi: T8 86,8tr (39,7%) | T9 99,3tr (42%)
+| T10 159,0tr (40,7%) | T11 83,4tr (45,9%, chua tron thang). Bien khop muc ~43% o [[bien-loi-nhuan-bo]].
+
+## [2026-11-22] ingest | footage xuong 21-22/11 (2 anh): kien bo xanh duong (21); kien bo do/navy ke don do 591/den 50/tim than 30 (22)
